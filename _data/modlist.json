@@ -267,7 +267,7 @@
     "author": "Oskar Potocki,  Taranchuk and  Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
-    "version": "1.0.0.0"
+    "version": "1.0.0.1"
   },
   {
     "author": "Kiame Vivacity",
@@ -297,7 +297,7 @@
     "author": "Andreas Pardeike",
     "name": "Zombieland",
     "steamId": "928376710",
-    "version": "2.3.2.0"
+    "version": "2.4.1.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -405,7 +405,7 @@
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
-    "version": "1.6.3.0"
+    "version": "1.7.2.1"
   },
   {
     "author": "Fluffy",
@@ -441,7 +441,7 @@
     "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
-    "version": "1.0.1.1"
+    "version": "1.0.1.2"
   },
   {
     "author": "Sarg Bjornson and  Chowder",
@@ -514,6 +514,12 @@
     "name": "Colony Manager",
     "steamId": "715565262",
     "version": "4.33.649"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.9.2097"
   },
   {
     "author": "avilmask",
@@ -596,20 +602,20 @@
   {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
     "steamId": null,
     "version": null
   },
   {
     "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
     "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SirRandoo",
@@ -621,7 +627,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.3.4"
+    "version": "6.1.4.3"
   },
   {
     "author": "NotFood",
@@ -650,8 +656,8 @@
   {
     "author": "Shadowrabbit",
     "name": "[SR]Factional War",
-    "steamId": null,
-    "version": null
+    "steamId": "2534328163",
+    "version": "1.0.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -662,6 +668,72 @@
   {
     "author": "Sig",
     "name": "The Mantodean insectoid race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alan Dariva and  Usagirei",
+    "name": "More Planning 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "Knight",
+    "name": "Infinite Turrets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Anonemous2 and  wofl",
+    "name": "More Furniture (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "Curb Stone",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Ceiling",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Rim 3D (Beta)",
+    "steamId": "2580818414",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ShauaPuta",
+    "name": "Pawnbold Race",
     "steamId": null,
     "version": null
   }
