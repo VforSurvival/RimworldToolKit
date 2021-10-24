@@ -4075,33 +4075,6 @@
     {
       "data": {
         "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-60.0C Minimum comfortable temperature",
-          "+200.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
-        ],
-        "mod": "Zombieland",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A zombie",
-      "defName": "Zombie",
-      "enabled": true,
-      "name": "Zombie",
-      "price": 1
-    },
-    {
-      "data": {
-        "stats": [
           "+$500 Market value",
           "+5.10 Move speed",
           "+50% Flammability",
@@ -4121,31 +4094,6 @@
       "enabled": true,
       "name": "Mantodean",
       "price": 833
-    },
-    {
-      "data": {
-        "stats": [
-          "+30.00 Mass",
-          "+100% Flammability",
-          "+16.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+30 Meat amount",
-          "+$900 Market value",
-          "+4.60 Move speed",
-          "+45 Carrying capacity",
-          "+120% Mining speed",
-          "+2 Honor value"
-        ],
-        "mod": "Pawnbold Race",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of cave-dwelling, small reptilian humanoids.",
-      "defName": "Pawnbold_bold",
-      "enabled": true,
-      "name": "kobold",
-      "price": 1500
     }
   ]
 }
