@@ -4047,6 +4047,100 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2
+    },
+    {
+      "description": "Timmy is now a natural hunter.",
+      "stats": [
+        "+1 shooting",
+        "+1 animals"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 shooting",
+          "+1 animals"
+        ]
+      },
+      "defName": "NaturalHunter",
+      "name": "naturalhunter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is intrigued by the idea of becoming something other than human.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "bodymodder",
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bodymodder",
+          "bodypurist"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "MutationAffinity",
+      "name": "mutationaffinity",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VME_Elder",
+      "name": "elder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -4093,7 +4187,155 @@
       "defName": "Alien_Mantodean",
       "enabled": true,
       "name": "Mantodean",
-      "price": 833
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+$2500 Market value",
+          "+5.40 Move speed",
+          "+2.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+60 Meat amount",
+          "+100% Immunity gain speed",
+          "+90 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+100% Flammability",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+90% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+100.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+120% Research speed",
+          "+110% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+100% Mining speed",
+          "+100% Mining yield"
+        ],
+        "mod": "Anthro Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A weird being.",
+      "defName": "Anthro",
+      "enabled": true,
+      "name": "Anthro",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+$1900 Market value",
+          "+5.60 Move speed",
+          "+130% Research speed",
+          "+110% Global work speed",
+          "+110% Global learning factor",
+          "+1.2 Melee dodge chance",
+          "+50 Leather amount",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+4 Honor value"
+        ],
+        "mod": "Forsakens",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The legacy of a fallen empire, with a distant link to the humanoid races of earth and beyond. Other than the fact that they began to awaken over the past century, no one knows much else about what they are, where they are from or fundamentals behind their technology, which seems to bridge the gap between science and magic.",
+      "defName": "Alien_Forsaken",
+      "enabled": true,
+      "name": "forsaken",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+$2250 Market value",
+          "+5.00 Move speed",
+          "+100% Flammability",
+          "+6.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+30.0% Armor - Blunt",
+          "+50 Leather amount",
+          "+5 Honor value",
+          "+0.5 Beauty",
+          "+120.00% Social impact",
+          "+120.00% Tame animal chance",
+          "+120.00% Train animal chance",
+          "+80% Mining speed",
+          "+120% Plant work speed",
+          "+120% Medical tend speed",
+          "+200% Medical tend quality",
+          "+120% Medical operation speed",
+          "+200% Medical surgery success chance",
+          "+50% Butchery speed",
+          "+50% Butchery efficiency",
+          "+130.00% Negotiation ability"
+        ],
+        "mod": "Angels and Devils (Continued)",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An Angel. These people are humans that got resurrected as angels by a special power that works in mysterious ways. These people are kind and full of love.",
+      "defName": "Sandy_Angel",
+      "enabled": true,
+      "name": "Angel",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+$2600 Market value",
+          "+5.00 Move speed",
+          "+50% Flammability",
+          "+16.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+30.0% Armor - Blunt",
+          "+40.0% Armor - Sharp",
+          "+50.0% Armor - Heat",
+          "+50 Leather amount",
+          "+5 Honor value",
+          "+50% Toxic sensitivity",
+          "+50% Psychic sensitivity",
+          "+70% Mental break threshold",
+          "+80.00% Social impact",
+          "+80.00% Tame animal chance",
+          "+80.00% Train animal chance",
+          "+1.2 Cooking speed",
+          "+120% Mining speed",
+          "+200% Hunting stealth",
+          "+120% Construction speed",
+          "+120% Butchery speed",
+          "+120% Butchery efficiency",
+          "+130.00% Negotiation ability"
+        ],
+        "mod": "Angels and Devils (Continued)",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Devil. These people are humans that got resurrected as devils by a special power that works in mysterious ways. These people are psychopaths and full of malice.",
+      "defName": "Sandy_Devil",
+      "enabled": true,
+      "name": "Devil",
+      "price": 5000
     }
   ]
 }
