@@ -3864,7 +3864,7 @@
       "name": "robot",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 7000,
       "removePrice": 5500,
       "degree": 1
     },
@@ -4049,70 +4049,6 @@
       "degree": -2
     },
     {
-      "description": "Timmy is now a natural hunter.",
-      "stats": [
-        "+1 shooting",
-        "+1 animals"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 shooting",
-          "+1 animals"
-        ]
-      },
-      "defName": "NaturalHunter",
-      "name": "naturalhunter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is intrigued by the idea of becoming something other than human.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "bodymodder",
-        "bodypurist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "bodymodder",
-          "bodypurist"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "MutationAffinity",
-      "name": "mutationaffinity",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [
 
@@ -4193,6 +4129,7 @@
       "data": {
         "stats": [
           "+55.00 Mass",
+          "+100% Flammability",
           "+$2500 Market value",
           "+5.40 Move speed",
           "+2.0C Minimum comfortable temperature",
@@ -4203,7 +4140,6 @@
           "+90 Carrying capacity",
           "+100% Pain shock threshold",
           "+100% Psychic sensitivity",
-          "+100% Flammability",
           "+1.0 Melee dodge chance",
           "+1.0 Melee hit chance",
           "+90% Aiming time",
@@ -4242,6 +4178,7 @@
       "data": {
         "stats": [
           "+55.00 Mass",
+          "+70% Flammability",
           "+$1900 Market value",
           "+5.60 Move speed",
           "+130% Research speed",
@@ -4266,10 +4203,10 @@
     {
       "data": {
         "stats": [
-          "+55.00 Mass",
+          "+60.00 Mass",
+          "+100% Flammability",
           "+$2250 Market value",
           "+5.00 Move speed",
-          "+100% Flammability",
           "+6.0C Minimum comfortable temperature",
           "+26.0C Maximum comfortable temperature",
           "+30.0% Armor - Blunt",
@@ -4302,10 +4239,10 @@
     {
       "data": {
         "stats": [
-          "+55.00 Mass",
+          "+60.00 Mass",
+          "+50% Flammability",
           "+$2600 Market value",
           "+5.00 Move speed",
-          "+50% Flammability",
           "+16.0C Minimum comfortable temperature",
           "+36.0C Maximum comfortable temperature",
           "+30.0% Armor - Blunt",
