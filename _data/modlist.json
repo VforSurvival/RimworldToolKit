@@ -405,7 +405,7 @@
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
-    "version": "1.7.3.1"
+    "version": "1.7.3.2"
   },
   {
     "author": "Fluffy",
@@ -690,6 +690,12 @@
     "version": null
   },
   {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
     "author": "Owlchemist",
     "name": "Perspective: Trees",
     "steamId": null,
@@ -756,12 +762,6 @@
     "version": null
   },
   {
-    "author": "Mic,  Iron Wolf and  The Pheonix",
-    "name": "Pawnmorpher",
-    "steamId": "1786466855",
-    "version": "1.12.1"
-  },
-  {
     "author": "Sandy",
     "name": "Angels and Devils (Continued)",
     "steamId": null,
@@ -794,6 +794,24 @@
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Biscuit",
+    "name": "Archotech+ (Continued)",
+    "steamId": "2270493883",
+    "version": "1.0.3.0"
+  },
+  {
+    "author": "taranchuk",
+    "name": "Archotech++",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrKociak",
+    "name": "More Archotech Garbage Reupload",
     "steamId": null,
     "version": null
   },
@@ -832,5 +850,29 @@
     "name": "Giddy-up! Battle Mounts",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "juanlopez2008",
+    "name": "LightsOut",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dakk Passerida",
+    "name": "Replantable Anima Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iwishforducks",
+    "name": "Ducks' Insane Skills",
+    "steamId": "2450186578",
+    "version": "1.0.0.0"
   }
 ]
