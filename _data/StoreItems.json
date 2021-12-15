@@ -892,7 +892,7 @@
       "abr": "larvae",
       "category": "Animals",
       "defname": "VFEI_Insectoid_Larvae",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "psychicwarhead",
@@ -1180,7 +1180,7 @@
       "abr": "quagga",
       "category": "Animals",
       "defname": "AEXP_Quagga",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(animals)",
@@ -2968,7 +2968,7 @@
       "abr": "persiancat",
       "category": "Animals",
       "defname": "AEXP_CatPersian",
-      "price": 500
+      "price": 333
     },
     {
       "abr": "pig",
@@ -5026,7 +5026,7 @@
       "abr": "squirrel",
       "category": "Animals",
       "defname": "Squirrel",
-      "price": 58
+      "price": 500
     },
     {
       "abr": "wake-up",
@@ -7810,7 +7810,7 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "slateblocks",
@@ -7966,7 +7966,7 @@
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
-      "price": 667
+      "price": 750
     },
     {
       "abr": "venomfangs",
@@ -9829,78 +9829,6 @@
       "price": 154
     },
     {
-      "abr": "air-conindoorunit",
-      "category": "Hygiene",
-      "defname": "AirconIndoorUnit",
-      "price": 82
-    },
-    {
-      "abr": "air-conoutdoorunit",
-      "category": "Hygiene",
-      "defname": "AirConOutdoorUnit",
-      "price": 458
-    },
-    {
-      "abr": "basin",
-      "category": "Hygiene",
-      "defname": "BasinStuff",
-      "price": 52
-    },
-    {
-      "abr": "bathmat",
-      "category": "Furniture",
-      "defname": "BathMat",
-      "price": 71
-    },
-    {
-      "abr": "bathtub",
-      "category": "Hygiene",
-      "defname": "BathtubStuff",
-      "price": 124
-    },
-    {
-      "abr": "bionicbladder",
-      "category": "Bionic",
-      "defname": "BionicBladder",
-      "price": 1308
-    },
-    {
-      "abr": "biosolids",
-      "category": "Waste",
-      "defname": "Biosolids",
-      "price": -10
-    },
-    {
-      "abr": "biosolidscomposter",
-      "category": "Hygiene",
-      "defname": "BiosolidsComposter",
-      "price": 146
-    },
-    {
-      "abr": "ceilingfan1x1",
-      "category": "Hygiene",
-      "defname": "CeilingFanS",
-      "price": 184
-    },
-    {
-      "abr": "ceilingfan1x1(dark)",
-      "category": "Hygiene",
-      "defname": "CeilingFanSDarklight",
-      "price": 184
-    },
-    {
-      "abr": "ceilingfan2x2",
-      "category": "Hygiene",
-      "defname": "CeilingFan",
-      "price": 184
-    },
-    {
-      "abr": "ceilingfan2x2(dark)",
-      "category": "Hygiene",
-      "defname": "CeilingFanDarklight",
-      "price": 184
-    },
-    {
       "abr": "couchcenter",
       "category": "Furniture",
       "defname": "Anon2CouchCenter",
@@ -9955,18 +9883,6 @@
       "price": 172
     },
     {
-      "abr": "electricboiler",
-      "category": "Hygiene",
-      "defname": "ElectricBoiler",
-      "price": 425
-    },
-    {
-      "abr": "electricpump",
-      "category": "Hygiene",
-      "defname": "ElectricPump",
-      "price": 316
-    },
-    {
       "abr": "endtable",
       "category": "Furniture",
       "defname": "Anon2EndTable",
@@ -9983,78 +9899,6 @@
       "category": "Furniture",
       "defname": "Anon2FileCabinet",
       "price": 74
-    },
-    {
-      "abr": "firesprinkler",
-      "category": "Hygiene",
-      "defname": "FireSprinkler",
-      "price": 104
-    },
-    {
-      "abr": "fountain",
-      "category": "Hygiene",
-      "defname": "Fountain",
-      "price": 52
-    },
-    {
-      "abr": "gasboiler",
-      "category": "Hygiene",
-      "defname": "GasBoiler",
-      "price": 425
-    },
-    {
-      "abr": "hottub",
-      "category": "Hygiene",
-      "defname": "HotTub",
-      "price": 800
-    },
-    {
-      "abr": "hotwatertank",
-      "category": "Hygiene",
-      "defname": "HotWaterTank",
-      "price": 245
-    },
-    {
-      "abr": "hygieneenhancer",
-      "category": "Bionic",
-      "defname": "HygieneEnhancer",
-      "price": 1308
-    },
-    {
-      "abr": "irrigationsprinkler",
-      "category": "Hygiene",
-      "defname": "IrrigationSprinkler",
-      "price": 102
-    },
-    {
-      "abr": "kitchensink",
-      "category": "Hygiene",
-      "defname": "KitchenSink",
-      "price": 167
-    },
-    {
-      "abr": "largeradiator",
-      "category": "Hygiene",
-      "defname": "RadiatorLarge",
-      "price": 252
-    },
-    {
-      "abr": "latrine",
-      "category": "Hygiene",
-      "defname": "PitLatrine",
-      "price": 55
-    },
-    {
-      "abr": "litterbox",
-      "category": "Hygiene",
-      "defname": "LitterBox",
-      "price": 52
-    },
-    {
-      "abr": "logboiler",
-      "category": "Hygiene",
-      "defname": "LogBoiler",
-      "price": 642
     },
     {
       "abr": "loudspeaker",
@@ -10225,34 +10069,16 @@
       "price": 163
     },
     {
-      "abr": "plumbingvalve",
-      "category": "Hygiene",
-      "defname": "plumbingValve",
-      "price": 50
-    },
-    {
       "abr": "poisontrap",
       "category": "Security",
       "defname": "TrapManto_Poison",
       "price": 53
     },
     {
-      "abr": "powershower",
-      "category": "Hygiene",
-      "defname": "ShowerAdvStuff",
-      "price": 170
-    },
-    {
       "abr": "pyre",
       "category": "Misc",
       "defname": "Pyre",
       "price": 230
-    },
-    {
-      "abr": "radiator",
-      "category": "Hygiene",
-      "defname": "RadiatorStuffed",
-      "price": 85
     },
     {
       "abr": "reinforcedbarrel",
@@ -10303,18 +10129,6 @@
       "price": 94
     },
     {
-      "abr": "shower",
-      "category": "Hygiene",
-      "defname": "ShowerStuff",
-      "price": 90
-    },
-    {
-      "abr": "simpleshower",
-      "category": "Hygiene",
-      "defname": "ShowerSimple",
-      "price": 52
-    },
-    {
       "abr": "skull",
       "category": "Items",
       "defname": "Skull",
@@ -10361,12 +10175,6 @@
       "category": "Headgear",
       "defname": "Apparel_Slicecap",
       "price": 62
-    },
-    {
-      "abr": "smarttoilet",
-      "category": "Hygiene",
-      "defname": "ToiletAdvStuff",
-      "price": 182
     },
     {
       "abr": "smokedfish",
@@ -10483,18 +10291,6 @@
       "price": 2808
     },
     {
-      "abr": "thermostat",
-      "category": "Hygiene",
-      "defname": "Thermostat",
-      "price": 86
-    },
-    {
-      "abr": "toilet",
-      "category": "Hygiene",
-      "defname": "ToiletStuff",
-      "price": 72
-    },
-    {
       "abr": "torturecrown",
       "category": "Headgear",
       "defname": "Apparel_TortureCrown",
@@ -10511,12 +10307,6 @@
       "category": "Furniture",
       "defname": "TotemicSlab_Medium",
       "price": 342
-    },
-    {
-      "abr": "towelrail",
-      "category": "Hygiene",
-      "defname": "RadiatorTowelRail",
-      "price": 85
     },
     {
       "abr": "traderimplant",
@@ -10567,12 +10357,6 @@
       "price": 62
     },
     {
-      "abr": "walk-infreezerunit",
-      "category": "Hygiene",
-      "defname": "FreezerUnit",
-      "price": 153
-    },
-    {
       "abr": "walldarklight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightDark",
@@ -10583,18 +10367,6 @@
       "category": "CS cybernetic",
       "defname": "CS_Implant_Warden",
       "price": -10
-    },
-    {
-      "abr": "washingmachine",
-      "category": "Hygiene",
-      "defname": "WashingMachine",
-      "price": 433
-    },
-    {
-      "abr": "watertub",
-      "category": "Hygiene",
-      "defname": "WashBucket",
-      "price": 52
     },
     {
       "abr": "workerhelmet",
@@ -10613,24 +10385,6 @@
       "category": "Animal",
       "defname": "Mech_Termite",
       "price": 550
-    },
-    {
-      "abr": "electricsaunaheater",
-      "category": "Hygiene",
-      "defname": "DBHSaunaHeaterElec",
-      "price": 725
-    },
-    {
-      "abr": "fueledsaunaheater",
-      "category": "Hygiene",
-      "defname": "DBHSaunaHeaterLog",
-      "price": 675
-    },
-    {
-      "abr": "saunaseating",
-      "category": "Furniture",
-      "defname": "DBHSaunaSeating",
-      "price": 100
     },
     {
       "abr": "foundationmaterial",
@@ -11440,7 +11194,7 @@
       "abr": "wyrm",
       "category": "Animals",
       "defname": "VAECaves_Wyrm",
-      "price": 4000
+      "price": 6000
     },
     {
       "abr": "wyrmmeat",
@@ -11467,418 +11221,4492 @@
       "price": 75
     },
     {
-      "abr": "archotechanimalproduct",
-      "category": "Animal products",
-      "defname": "ArchotechMilkEggThing",
-      "price": 8
+      "abr": "abomasnow",
+      "category": "Animals",
+      "defname": "PW_Abomasnow",
+      "price": -10
     },
     {
-      "abr": "archotechbake",
-      "category": "Meals",
-      "defname": "MAG_ArchotechBake",
-      "price": 300
+      "abr": "abra",
+      "category": "Animals",
+      "defname": "PW_Abra",
+      "price": -10
     },
     {
-      "abr": "archotechbattery",
-      "category": "Special",
-      "defname": "MAG_ArchotechBatteryS",
-      "price": 6667
+      "abr": "absol",
+      "category": "Animals",
+      "defname": "PW_Absol",
+      "price": -10
     },
     {
-      "abr": "archotechbioadapter",
-      "category": "Archotech",
-      "defname": "ArchotechBioadapter",
-      "price": 83333
+      "abr": "aerodactyl",
+      "category": "Animals",
+      "defname": "PW_Aerodactyl",
+      "price": -10
     },
     {
-      "abr": "archotechcheese",
-      "category": "Animal products",
-      "defname": "MAG_ArchotechCheese",
-      "price": 8
+      "abr": "aggron",
+      "category": "Animals",
+      "defname": "PW_Aggron",
+      "price": -10
     },
     {
-      "abr": "archotechcleaner",
-      "category": "Furniture",
-      "defname": "MAG_GarbageBin",
-      "price": 4125
+      "abr": "aipom",
+      "category": "Animals",
+      "defname": "PW_Aipom",
+      "price": -10
     },
     {
-      "abr": "archotechcooler",
-      "category": "Special",
-      "defname": "ArchoReverseTemperatureThing",
-      "price": 833
+      "abr": "alakazam",
+      "category": "Animals",
+      "defname": "PW_Alakazam",
+      "price": -10
     },
     {
-      "abr": "archotechcortex",
-      "category": "Archotech",
-      "defname": "ArchotechCortex",
-      "price": 83333
+      "abr": "altaria",
+      "category": "Animals",
+      "defname": "PW_Altaria",
+      "price": -10
     },
     {
-      "abr": "archotechdessert",
-      "category": "Meals",
-      "defname": "MAG_ArchotechDessert",
-      "price": 208
+      "abr": "ambipom",
+      "category": "Animals",
+      "defname": "PW_Ambipom",
+      "price": -10
     },
     {
-      "abr": "archotechear",
-      "category": "Archotech",
-      "defname": "SoSArchotechEar",
-      "price": 3000
+      "abr": "ampharos",
+      "category": "Animals",
+      "defname": "PW_Ampharos",
+      "price": -10
     },
     {
-      "abr": "archotechfish",
-      "category": "Raw fish",
-      "defname": "MAG_VCEF_ArchotechFish",
-      "price": 8
+      "abr": "anorith",
+      "category": "Animals",
+      "defname": "PW_Anorith",
+      "price": -10
     },
     {
-      "abr": "archotechfragment",
-      "category": "Raw resources",
-      "defname": "ArchotechScrap",
-      "price": 92
+      "abr": "apricornballbelt",
+      "category": "Poké Ball belts",
+      "defname": "PW_ApricornBallBelt",
+      "price": 500
     },
     {
-      "abr": "archotechgrill",
-      "category": "Meals",
-      "defname": "MAG_archotechgrill",
-      "price": 300
+      "abr": "arbok",
+      "category": "Animals",
+      "defname": "PW_Arbok",
+      "price": -10
     },
     {
-      "abr": "archotechheart",
-      "category": "Archotech",
-      "defname": "SoSArchotechHeart",
-      "price": 4667
+      "abr": "arcanine",
+      "category": "Animals",
+      "defname": "PW_Arcanine",
+      "price": -10
     },
     {
-      "abr": "archotechheater",
-      "category": "Special",
-      "defname": "ArchoStandardTemperatureThing",
-      "price": 833
+      "abr": "arceus",
+      "category": "Animals",
+      "defname": "PW_Arceus",
+      "price": -10
     },
     {
-      "abr": "archotechjaw",
-      "category": "Archotech",
-      "defname": "SoSArchotechJaw",
-      "price": 4667
+      "abr": "ariados",
+      "category": "Animals",
+      "defname": "PW_Ariados",
+      "price": -10
     },
     {
-      "abr": "archotechkibble",
-      "category": "Foods",
-      "defname": "MAG_Archotech_Kibble",
-      "price": 50
+      "abr": "armaldo",
+      "category": "Animals",
+      "defname": "PW_Armaldo",
+      "price": -10
     },
     {
-      "abr": "archotechkidney",
-      "category": "Archotech",
-      "defname": "SoSArchotechKidney",
-      "price": 4667
-    },
-    {
-      "abr": "archotechlight",
-      "category": "Special",
-      "defname": "ArchoLampThing",
-      "price": 2500
-    },
-    {
-      "abr": "archotechlimbassembler",
-      "category": "Special",
-      "defname": "ArchoPartAssembler",
-      "price": 41667
-    },
-    {
-      "abr": "archotechliver",
-      "category": "Archotech",
-      "defname": "SoSArchotechLiver",
-      "price": 4667
-    },
-    {
-      "abr": "archotechlung",
-      "category": "Archotech",
-      "defname": "SoSArchotechLung",
-      "price": 4667
-    },
-    {
-      "abr": "archotechmass",
-      "category": "Raw resources",
-      "defname": "archotechmatteraddingsomecraptoavoidproblems",
-      "price": 92
-    },
-    {
-      "abr": "archotechmeal",
-      "category": "Meals",
-      "defname": "MealArchoAdvanced",
-      "price": 300
-    },
-    {
-      "abr": "archotechmeat",
-      "category": "Meat",
-      "defname": "SuperDuperArchoMeat",
-      "price": 8
-    },
-    {
-      "abr": "archotechmedicine",
-      "category": "Medicine",
-      "defname": "ArchotechishMedicine",
-      "price": 2083
-    },
-    {
-      "abr": "archotechmetamorphose",
-      "category": "Archotech",
-      "defname": "ArchotechMetamorphose",
-      "price": 83333
-    },
-    {
-      "abr": "archotechnose",
-      "category": "Archotech",
-      "defname": "SoSArchotechNose",
-      "price": 4667
-    },
-    {
-      "abr": "archotechnourisher",
-      "category": "Special",
-      "defname": "ArchoCookingAssistant",
-      "price": 6250
-    },
-    {
-      "abr": "archotechplantmatter",
-      "category": "Vegetarian",
-      "defname": "SuperDuperArchoPlant",
-      "price": 8
-    },
-    {
-      "abr": "archotechregenerator",
-      "category": "Archotech",
-      "defname": "ArchotechRegenerator",
-      "price": 83333
-    },
-    {
-      "abr": "archotechresearchassistant",
-      "category": "Special",
-      "defname": "ArchoDecipherAI",
-      "price": 12500
-    },
-    {
-      "abr": "archotechresurrector",
-      "category": "Items",
-      "defname": "MechSerumResurrectorButBetter",
-      "price": 5833
-    },
-    {
-      "abr": "archotechskin",
-      "category": "Archotech",
-      "defname": "SoSArchotechSkin",
-      "price": 4667
-    },
-    {
-      "abr": "archotechsoda",
-      "category": "Drugs",
-      "defname": "MAG_ArchotechSoda",
-      "price": 20
-    },
-    {
-      "abr": "archotechsodasyrup",
-      "category": "Musts and syrups",
-      "defname": "MAG_ArchotechSodaSyrup",
-      "price": 12
-    },
-    {
-      "abr": "archotechsoup",
-      "category": "Meals",
-      "defname": "MAG_ArchotechSoup",
-      "price": 300
-    },
-    {
-      "abr": "archotechspices",
-      "category": "Condiments",
-      "defname": "ArchoNutVial",
-      "price": 17
-    },
-    {
-      "abr": "archotechspine",
-      "category": "Archotech",
-      "defname": "SoSArchotechSpine",
-      "price": 4667
-    },
-    {
-      "abr": "archotechsprinkler",
-      "category": "Special",
-      "defname": "MAG_VFE_ArchotechSprinkler",
-      "price": 2292
-    },
-    {
-      "abr": "archotechstomach",
-      "category": "Archotech",
-      "defname": "SoSArchotechStomach",
-      "price": 4667
-    },
-    {
-      "abr": "archotechstove",
-      "category": "Production",
-      "defname": "MAG_ArchotechCookingStove",
-      "price": 833
-    },
-    {
-      "abr": "archotechsubdermalarmor",
-      "category": "Archotech",
-      "defname": "ArchotechSubdermalArmor",
-      "price": 83333
-    },
-    {
-      "abr": "archotechworkbench",
-      "category": "Production",
-      "defname": "ArchBench",
-      "price": 833
-    },
-    {
-      "abr": "autoresearcher",
-      "category": "Special",
-      "defname": "MAG_AutoResearcher",
-      "price": 8333
-    },
-    {
-      "abr": "largearchotechreplicator",
-      "category": "Special",
-      "defname": "MAG_ArchoReproductorLarge",
-      "price": 2625000
-    },
-    {
-      "abr": "mechanoidsummoner",
-      "category": "Special",
-      "defname": "ArchoMechSummoner",
-      "price": 4167
-    },
-    {
-      "abr": "mediumarchotechreplicator",
-      "category": "Special",
-      "defname": "MAG_ArchoReproductorMedium",
-      "price": 262500
-    },
-    {
-      "abr": "meteoritesummoner",
-      "category": "Special",
-      "defname": "ArchoMeteorSummon",
-      "price": 4167
-    },
-    {
-      "abr": "omniosmos",
-      "category": "Special",
-      "defname": "MAG_ArchotechWaterThing",
-      "price": 15725
-    },
-    {
-      "abr": "podsummoner",
-      "category": "Special",
-      "defname": "ArchoPodGenerator",
-      "price": 4167
-    },
-    {
-      "abr": "primitivearchotechlight",
-      "category": "Special",
-      "defname": "MAG_ArchotechTorchLamp",
-      "price": 132
-    },
-    {
-      "abr": "psychicanimaltrainer",
-      "category": "Utility",
-      "defname": "TrainingArtifact",
-      "price": 917
-    },
-    {
-      "abr": "psychichealerlance",
-      "category": "Utility",
-      "defname": "HealAndStuffArtifact",
-      "price": 917
-    },
-    {
-      "abr": "psychicinspirationlance",
-      "category": "Utility",
-      "defname": "InspireArtifact",
-      "price": 917
-    },
-    {
-      "abr": "psychickillswitch",
-      "category": "Utility",
-      "defname": "DeathArtifact",
-      "price": 917
-    },
-    {
-      "abr": "psychicmanipulator",
-      "category": "Archotech",
-      "defname": "SoSPsychicManipulator",
-      "price": 3333
-    },
-    {
-      "abr": "psychicmanipulator",
-      "category": "Special",
-      "defname": "RaidorJoinorTameorManhunter",
-      "price": 16667
-    },
-    {
-      "abr": "psychicpredictor",
-      "category": "Archotech",
-      "defname": "SoSPsychicPredictor",
-      "price": 1667
-    },
-    {
-      "abr": "psychicrecruiter",
-      "category": "Utility",
-      "defname": "RecruitArtifact",
-      "price": 917
-    },
-    {
-      "abr": "psychicstasislance",
-      "category": "Utility",
-      "defname": "StatisArtifact",
-      "price": 917
-    },
-    {
-      "abr": "psychicterrorpulser",
-      "category": "Artifacts",
-      "defname": "PsychicSpookPulser",
-      "price": 2500
-    },
-    {
-      "abr": "psychictranquilitylance",
-      "category": "Utility",
-      "defname": "MentalResetArtifact",
-      "price": 917
-    },
-    {
-      "abr": "psyrestorelance",
-      "category": "Utility",
-      "defname": "PsyrestoreArtifact",
-      "price": 917
-    },
-    {
-      "abr": "resourceassembler",
-      "category": "Special",
-      "defname": "SexyResourceDispenser",
-      "price": 8333
-    },
-    {
-      "abr": "smallarchotechreplicator",
-      "category": "Special",
-      "defname": "ArchoReproductor",
-      "price": 26250
-    },
-    {
-      "abr": "uncookedarchotechsoup",
-      "category": "Uncooked soups",
-      "defname": "MAG_UncookedArchotechSoup",
+      "abr": "armorfossil",
+      "category": "Fossils",
+      "defname": "PW_ArmorFossil",
       "price": 167
     },
     {
-      "abr": "vanometricliquidprocessor",
-      "category": "Production",
-      "defname": "MAG_VanometricPot",
-      "price": 6108
+      "abr": "aron",
+      "category": "Animals",
+      "defname": "PW_Aron",
+      "price": -10
     },
     {
-      "abr": "vanometrictimealterationchamber",
+      "abr": "articuno",
+      "category": "Animals",
+      "defname": "PW_Articuno",
+      "price": 50000
+    },
+    {
+      "abr": "azelf",
+      "category": "Animals",
+      "defname": "PW_Azelf",
+      "price": -10
+    },
+    {
+      "abr": "azumarill",
+      "category": "Animals",
+      "defname": "PW_Azumarill",
+      "price": -10
+    },
+    {
+      "abr": "azurill",
+      "category": "Animals",
+      "defname": "PW_Azurill",
+      "price": -10
+    },
+    {
+      "abr": "bagon",
+      "category": "Animals",
+      "defname": "PW_Bagon",
+      "price": -10
+    },
+    {
+      "abr": "baltoy",
+      "category": "Animals",
+      "defname": "PW_Baltoy",
+      "price": -10
+    },
+    {
+      "abr": "banette",
+      "category": "Animals",
+      "defname": "PW_Banette",
+      "price": -10
+    },
+    {
+      "abr": "barboach",
+      "category": "Animals",
+      "defname": "PW_Barboach",
+      "price": -10
+    },
+    {
+      "abr": "bastiodon",
+      "category": "Animals",
+      "defname": "PW_Bastiodon",
+      "price": -10
+    },
+    {
+      "abr": "bayleef",
+      "category": "Animals",
+      "defname": "PW_Bayleef",
+      "price": -10
+    },
+    {
+      "abr": "beautifly",
+      "category": "Animals",
+      "defname": "PW_Beautifly",
+      "price": -10
+    },
+    {
+      "abr": "beedrill",
+      "category": "Animals",
+      "defname": "PW_Beedrill",
+      "price": -10
+    },
+    {
+      "abr": "beldum",
+      "category": "Animals",
+      "defname": "PW_Beldum",
+      "price": -10
+    },
+    {
+      "abr": "bellossom",
+      "category": "Animals",
+      "defname": "PW_Bellossom",
+      "price": -10
+    },
+    {
+      "abr": "bellsprout",
+      "category": "Animals",
+      "defname": "PW_Bellsprout",
+      "price": -10
+    },
+    {
+      "abr": "bibarel",
+      "category": "Animals",
+      "defname": "PW_Bibarel",
+      "price": -10
+    },
+    {
+      "abr": "bidoof",
+      "category": "Animals",
+      "defname": "PW_Bidoof",
+      "price": -10
+    },
+    {
+      "abr": "blastoise",
+      "category": "Animals",
+      "defname": "PW_Blastoise",
+      "price": -10
+    },
+    {
+      "abr": "blaziken",
+      "category": "Animals",
+      "defname": "PW_Blaziken",
+      "price": -10
+    },
+    {
+      "abr": "blissey",
+      "category": "Animals",
+      "defname": "PW_Blissey",
+      "price": -10
+    },
+    {
+      "abr": "bonsly",
+      "category": "Animals",
+      "defname": "PW_Bonsly",
+      "price": -10
+    },
+    {
+      "abr": "breloom",
+      "category": "Animals",
+      "defname": "PW_Breloom",
+      "price": -10
+    },
+    {
+      "abr": "bronzong",
+      "category": "Animals",
+      "defname": "PW_Bronzong",
+      "price": -10
+    },
+    {
+      "abr": "bronzor",
+      "category": "Animals",
+      "defname": "PW_Bronzor",
+      "price": -10
+    },
+    {
+      "abr": "budew",
+      "category": "Animals",
+      "defname": "PW_Budew",
+      "price": -10
+    },
+    {
+      "abr": "buizel",
+      "category": "Animals",
+      "defname": "PW_Buizel",
+      "price": -10
+    },
+    {
+      "abr": "bulbasaur",
+      "category": "Animals",
+      "defname": "PW_Bulbasaur",
+      "price": -10
+    },
+    {
+      "abr": "buneary",
+      "category": "Animals",
+      "defname": "PW_Buneary",
+      "price": -10
+    },
+    {
+      "abr": "burmy",
+      "category": "Animals",
+      "defname": "PW_Burmy",
+      "price": -10
+    },
+    {
+      "abr": "butterfree",
+      "category": "Animals",
+      "defname": "PW_Butterfree",
+      "price": -10
+    },
+    {
+      "abr": "cacnea",
+      "category": "Animals",
+      "defname": "PW_Cacnea",
+      "price": -10
+    },
+    {
+      "abr": "cacturne",
+      "category": "Animals",
+      "defname": "PW_Cacturne",
+      "price": -10
+    },
+    {
+      "abr": "camerupt",
+      "category": "Animals",
+      "defname": "PW_Camerupt",
+      "price": -10
+    },
+    {
+      "abr": "carnivine",
+      "category": "Animals",
+      "defname": "PW_Carnivine",
+      "price": -10
+    },
+    {
+      "abr": "carvanha",
+      "category": "Animals",
+      "defname": "PW_Carvanha",
+      "price": -10
+    },
+    {
+      "abr": "cascoon",
+      "category": "Animals",
+      "defname": "PW_Cascoon",
+      "price": -10
+    },
+    {
+      "abr": "castform",
+      "category": "Animals",
+      "defname": "PW_Castform",
+      "price": -10
+    },
+    {
+      "abr": "caterpie",
+      "category": "Animals",
+      "defname": "PW_Caterpie",
+      "price": -10
+    },
+    {
+      "abr": "celebi",
+      "category": "Animals",
+      "defname": "PW_Celebi",
+      "price": 50000
+    },
+    {
+      "abr": "chansey",
+      "category": "Animals",
+      "defname": "PW_Chansey",
+      "price": -10
+    },
+    {
+      "abr": "charizard",
+      "category": "Animals",
+      "defname": "PW_Charizard",
+      "price": -10
+    },
+    {
+      "abr": "charmander",
+      "category": "Animals",
+      "defname": "PW_Charmander",
+      "price": -10
+    },
+    {
+      "abr": "charmeleon",
+      "category": "Animals",
+      "defname": "PW_Charmeleon",
+      "price": -10
+    },
+    {
+      "abr": "chatot",
+      "category": "Animals",
+      "defname": "PW_Chatot",
+      "price": -10
+    },
+    {
+      "abr": "cherrim",
+      "category": "Animals",
+      "defname": "PW_Cherrim",
+      "price": -10
+    },
+    {
+      "abr": "cherubi",
+      "category": "Animals",
+      "defname": "PW_Cherubi",
+      "price": -10
+    },
+    {
+      "abr": "chikorita",
+      "category": "Animals",
+      "defname": "PW_Chikorita",
+      "price": -10
+    },
+    {
+      "abr": "chimchar",
+      "category": "Animals",
+      "defname": "PW_Chimchar",
+      "price": -10
+    },
+    {
+      "abr": "chimecho",
+      "category": "Animals",
+      "defname": "PW_Chimecho",
+      "price": -10
+    },
+    {
+      "abr": "chinchou",
+      "category": "Animals",
+      "defname": "PW_Chinchou",
+      "price": -10
+    },
+    {
+      "abr": "chingling",
+      "category": "Animals",
+      "defname": "PW_Chingling",
+      "price": -10
+    },
+    {
+      "abr": "clamperl",
+      "category": "Animals",
+      "defname": "PW_Clamperl",
+      "price": -10
+    },
+    {
+      "abr": "clawfossil",
+      "category": "Fossils",
+      "defname": "PW_ClawFossil",
+      "price": 167
+    },
+    {
+      "abr": "claydol",
+      "category": "Animals",
+      "defname": "PW_Claydol",
+      "price": -10
+    },
+    {
+      "abr": "clefable",
+      "category": "Animals",
+      "defname": "PW_Clefable",
+      "price": -10
+    },
+    {
+      "abr": "clefairy",
+      "category": "Animals",
+      "defname": "PW_Clefairy",
+      "price": -10
+    },
+    {
+      "abr": "cleffa",
+      "category": "Animals",
+      "defname": "PW_Cleffa",
+      "price": -10
+    },
+    {
+      "abr": "cloyster",
+      "category": "Animals",
+      "defname": "PW_Cloyster",
+      "price": -10
+    },
+    {
+      "abr": "combee",
+      "category": "Animals",
+      "defname": "PW_Combee",
+      "price": -10
+    },
+    {
+      "abr": "combusken",
+      "category": "Animals",
+      "defname": "PW_Combusken",
+      "price": -10
+    },
+    {
+      "abr": "corphish",
+      "category": "Animals",
+      "defname": "PW_Corphish",
+      "price": -10
+    },
+    {
+      "abr": "corsola",
+      "category": "Animals",
+      "defname": "PW_Corsola",
+      "price": -10
+    },
+    {
+      "abr": "cradily",
+      "category": "Animals",
+      "defname": "PW_Cradily",
+      "price": -10
+    },
+    {
+      "abr": "cranidos",
+      "category": "Animals",
+      "defname": "PW_Cranidos",
+      "price": -10
+    },
+    {
+      "abr": "crawdaunt",
+      "category": "Animals",
+      "defname": "PW_Crawdaunt",
+      "price": -10
+    },
+    {
+      "abr": "cresselia",
+      "category": "Animals",
+      "defname": "PW_Cresselia",
+      "price": -10
+    },
+    {
+      "abr": "croagunk",
+      "category": "Animals",
+      "defname": "PW_Croagunk",
+      "price": -10
+    },
+    {
+      "abr": "crobat",
+      "category": "Animals",
+      "defname": "PW_Crobat",
+      "price": -10
+    },
+    {
+      "abr": "croconaw",
+      "category": "Animals",
+      "defname": "PW_Croconaw",
+      "price": -10
+    },
+    {
+      "abr": "cubone",
+      "category": "Animals",
+      "defname": "PW_Cubone",
+      "price": -10
+    },
+    {
+      "abr": "cyndaquil",
+      "category": "Animals",
+      "defname": "PW_Cyndaquil",
+      "price": -10
+    },
+    {
+      "abr": "darkrai",
+      "category": "Animals",
+      "defname": "PW_Darkrai",
+      "price": -10
+    },
+    {
+      "abr": "delcatty",
+      "category": "Animals",
+      "defname": "PW_Delcatty",
+      "price": -10
+    },
+    {
+      "abr": "delibird",
+      "category": "Animals",
+      "defname": "PW_Delibird",
+      "price": -10
+    },
+    {
+      "abr": "deoxys",
+      "category": "Animals",
+      "defname": "PW_Deoxys",
+      "price": -10
+    },
+    {
+      "abr": "dewgong",
+      "category": "Animals",
+      "defname": "PW_Dewgong",
+      "price": -10
+    },
+    {
+      "abr": "dialga",
+      "category": "Animals",
+      "defname": "PW_Dialga",
+      "price": -10
+    },
+    {
+      "abr": "diglett",
+      "category": "Animals",
+      "defname": "PW_Diglett",
+      "price": -10
+    },
+    {
+      "abr": "ditto",
+      "category": "Animals",
+      "defname": "PW_Ditto",
+      "price": -10
+    },
+    {
+      "abr": "dodrio",
+      "category": "Animals",
+      "defname": "PW_Dodrio",
+      "price": -10
+    },
+    {
+      "abr": "doduo",
+      "category": "Animals",
+      "defname": "PW_Doduo",
+      "price": -10
+    },
+    {
+      "abr": "domefossil",
+      "category": "Fossils",
+      "defname": "PW_DomeFossil",
+      "price": 167
+    },
+    {
+      "abr": "donphan",
+      "category": "Animals",
+      "defname": "PW_Donphan",
+      "price": -10
+    },
+    {
+      "abr": "dragonair",
+      "category": "Animals",
+      "defname": "PW_Dragonair",
+      "price": -10
+    },
+    {
+      "abr": "dragonite",
+      "category": "Animals",
+      "defname": "PW_Dragonite",
+      "price": -10
+    },
+    {
+      "abr": "drapion",
+      "category": "Animals",
+      "defname": "PW_Drapion",
+      "price": -10
+    },
+    {
+      "abr": "dratini",
+      "category": "Animals",
+      "defname": "PW_Dratini",
+      "price": -10
+    },
+    {
+      "abr": "drifblim",
+      "category": "Animals",
+      "defname": "PW_Drifblim",
+      "price": -10
+    },
+    {
+      "abr": "drifloon",
+      "category": "Animals",
+      "defname": "PW_Drifloon",
+      "price": -10
+    },
+    {
+      "abr": "drowzee",
+      "category": "Animals",
+      "defname": "PW_Drowzee",
+      "price": -10
+    },
+    {
+      "abr": "dubiousdisc",
+      "category": "Other",
+      "defname": "PW_DubiousDisc",
+      "price": 1175
+    },
+    {
+      "abr": "dugtrio",
+      "category": "Animals",
+      "defname": "PW_Dugtrio",
+      "price": -10
+    },
+    {
+      "abr": "dunsparce",
+      "category": "Animals",
+      "defname": "PW_Dunsparce",
+      "price": -10
+    },
+    {
+      "abr": "dusclops",
+      "category": "Animals",
+      "defname": "PW_Dusclops",
+      "price": -10
+    },
+    {
+      "abr": "dusknoir",
+      "category": "Animals",
+      "defname": "PW_Dusknoir",
+      "price": -10
+    },
+    {
+      "abr": "duskull",
+      "category": "Animals",
+      "defname": "PW_Duskull",
+      "price": -10
+    },
+    {
+      "abr": "dustox",
+      "category": "Animals",
+      "defname": "PW_Dustox",
+      "price": -10
+    },
+    {
+      "abr": "eevee",
+      "category": "Animals",
+      "defname": "PW_Eevee",
+      "price": -10
+    },
+    {
+      "abr": "ekans",
+      "category": "Animals",
+      "defname": "PW_Ekans",
+      "price": -10
+    },
+    {
+      "abr": "electabuzz",
+      "category": "Animals",
+      "defname": "PW_Electabuzz",
+      "price": -10
+    },
+    {
+      "abr": "electivire",
+      "category": "Animals",
+      "defname": "PW_Electivire",
+      "price": -10
+    },
+    {
+      "abr": "electrike",
+      "category": "Animals",
+      "defname": "PW_Electrike",
+      "price": -10
+    },
+    {
+      "abr": "electrode",
+      "category": "Animals",
+      "defname": "PW_Electrode",
+      "price": -10
+    },
+    {
+      "abr": "elekid",
+      "category": "Animals",
+      "defname": "PW_Elekid",
+      "price": -10
+    },
+    {
+      "abr": "empoleon",
+      "category": "Animals",
+      "defname": "PW_Empoleon",
+      "price": -10
+    },
+    {
+      "abr": "entei",
+      "category": "Animals",
+      "defname": "PW_Entei",
+      "price": -10
+    },
+    {
+      "abr": "espeon",
+      "category": "Animals",
+      "defname": "PW_Espeon",
+      "price": -10
+    },
+    {
+      "abr": "exeggcute",
+      "category": "Animals",
+      "defname": "PW_Exeggcute",
+      "price": -10
+    },
+    {
+      "abr": "exeggutor",
+      "category": "Animals",
+      "defname": "PW_Exeggutor",
+      "price": -10
+    },
+    {
+      "abr": "exploud",
+      "category": "Animals",
+      "defname": "PW_Exploud",
+      "price": -10
+    },
+    {
+      "abr": "farfetch'd",
+      "category": "Animals",
+      "defname": "PW_Farfetchd",
+      "price": -10
+    },
+    {
+      "abr": "fearow",
+      "category": "Animals",
+      "defname": "PW_Fearow",
+      "price": -10
+    },
+    {
+      "abr": "feebas",
+      "category": "Animals",
+      "defname": "PW_Feebas",
+      "price": -10
+    },
+    {
+      "abr": "feraligatr",
+      "category": "Animals",
+      "defname": "PW_Feraligatr",
+      "price": -10
+    },
+    {
+      "abr": "finneon",
+      "category": "Animals",
+      "defname": "PW_Finneon",
+      "price": -10
+    },
+    {
+      "abr": "firestone",
+      "category": "Stones",
+      "defname": "PW_FireStone",
+      "price": 250
+    },
+    {
+      "abr": "flaaffy",
+      "category": "Animals",
+      "defname": "PW_Flaaffy",
+      "price": -10
+    },
+    {
+      "abr": "flareon",
+      "category": "Animals",
+      "defname": "PW_Flareon",
+      "price": -10
+    },
+    {
+      "abr": "floatzel",
+      "category": "Animals",
+      "defname": "PW_Floatzel",
+      "price": -10
+    },
+    {
+      "abr": "flygon",
+      "category": "Animals",
+      "defname": "PW_Flygon",
+      "price": -10
+    },
+    {
+      "abr": "forretress",
+      "category": "Animals",
+      "defname": "PW_Forretress",
+      "price": -10
+    },
+    {
+      "abr": "froslass",
+      "category": "Animals",
+      "defname": "PW_Froslass",
+      "price": -10
+    },
+    {
+      "abr": "furret",
+      "category": "Animals",
+      "defname": "PW_Furret",
+      "price": -10
+    },
+    {
+      "abr": "gabite",
+      "category": "Animals",
+      "defname": "PW_Gabite",
+      "price": -10
+    },
+    {
+      "abr": "gallade",
+      "category": "Animals",
+      "defname": "PW_Gallade",
+      "price": -10
+    },
+    {
+      "abr": "garchomp",
+      "category": "Animals",
+      "defname": "PW_Garchomp",
+      "price": -10
+    },
+    {
+      "abr": "gardevoir",
+      "category": "Animals",
+      "defname": "PW_Gardevoir",
+      "price": -10
+    },
+    {
+      "abr": "gastly",
+      "category": "Animals",
+      "defname": "PW_Gastly",
+      "price": -10
+    },
+    {
+      "abr": "gastrodon",
+      "category": "Animals",
+      "defname": "PW_Gastrodon",
+      "price": -10
+    },
+    {
+      "abr": "gengar",
+      "category": "Animals",
+      "defname": "PW_Gengar",
+      "price": -10
+    },
+    {
+      "abr": "geodude",
+      "category": "Animals",
+      "defname": "PW_Geodude",
+      "price": -10
+    },
+    {
+      "abr": "gible",
+      "category": "Animals",
+      "defname": "PW_Gible",
+      "price": -10
+    },
+    {
+      "abr": "girafarig",
+      "category": "Animals",
+      "defname": "PW_Girafarig",
+      "price": -10
+    },
+    {
+      "abr": "giratina",
+      "category": "Animals",
+      "defname": "PW_Giratina",
+      "price": -10
+    },
+    {
+      "abr": "glaceon",
+      "category": "Animals",
+      "defname": "PW_Glaceon",
+      "price": -10
+    },
+    {
+      "abr": "glalie",
+      "category": "Animals",
+      "defname": "PW_Glalie",
+      "price": -10
+    },
+    {
+      "abr": "glameow",
+      "category": "Animals",
+      "defname": "PW_Glameow",
+      "price": -10
+    },
+    {
+      "abr": "gligar",
+      "category": "Animals",
+      "defname": "PW_Gligar",
+      "price": -10
+    },
+    {
+      "abr": "gliscor",
+      "category": "Animals",
+      "defname": "PW_Gliscor",
+      "price": -10
+    },
+    {
+      "abr": "gloom",
+      "category": "Animals",
+      "defname": "PW_Gloom",
+      "price": -10
+    },
+    {
+      "abr": "golbat",
+      "category": "Animals",
+      "defname": "PW_Golbat",
+      "price": -10
+    },
+    {
+      "abr": "goldeen",
+      "category": "Animals",
+      "defname": "PW_Goldeen",
+      "price": -10
+    },
+    {
+      "abr": "golduck",
+      "category": "Animals",
+      "defname": "PW_Golduck",
+      "price": -10
+    },
+    {
+      "abr": "golem",
+      "category": "Animals",
+      "defname": "PW_Golem",
+      "price": -10
+    },
+    {
+      "abr": "gorebyss",
+      "category": "Animals",
+      "defname": "PW_Gorebyss",
+      "price": -10
+    },
+    {
+      "abr": "granbull",
+      "category": "Animals",
+      "defname": "PW_Granbull",
+      "price": -10
+    },
+    {
+      "abr": "graveler",
+      "category": "Animals",
+      "defname": "PW_Graveler",
+      "price": -10
+    },
+    {
+      "abr": "greatballbelt",
+      "category": "Poké Ball belts",
+      "defname": "PW_GreatBallBelt",
+      "price": 1500
+    },
+    {
+      "abr": "grimer",
+      "category": "Animals",
+      "defname": "PW_Grimer",
+      "price": -10
+    },
+    {
+      "abr": "grotle",
+      "category": "Animals",
+      "defname": "PW_Grotle",
+      "price": -10
+    },
+    {
+      "abr": "groudon",
+      "category": "Animals",
+      "defname": "PW_Groudon",
+      "price": 50000
+    },
+    {
+      "abr": "grovyle",
+      "category": "Animals",
+      "defname": "PW_Grovyle",
+      "price": -10
+    },
+    {
+      "abr": "growlithe",
+      "category": "Animals",
+      "defname": "PW_Growlithe",
+      "price": -10
+    },
+    {
+      "abr": "grumpig",
+      "category": "Animals",
+      "defname": "PW_Grumpig",
+      "price": -10
+    },
+    {
+      "abr": "gulpin",
+      "category": "Animals",
+      "defname": "PW_Gulpin",
+      "price": -10
+    },
+    {
+      "abr": "gyarados",
+      "category": "Animals",
+      "defname": "PW_Gyarados",
+      "price": -10
+    },
+    {
+      "abr": "happiny",
+      "category": "Animals",
+      "defname": "PW_Happiny",
+      "price": -10
+    },
+    {
+      "abr": "hariyama",
+      "category": "Animals",
+      "defname": "PW_Hariyama",
+      "price": -10
+    },
+    {
+      "abr": "haunter",
+      "category": "Animals",
+      "defname": "PW_Haunter",
+      "price": -10
+    },
+    {
+      "abr": "healpowder",
+      "category": "Healing",
+      "defname": "PW_HealPowder",
+      "price": 667
+    },
+    {
+      "abr": "heatran",
+      "category": "Animals",
+      "defname": "PW_Heatran",
+      "price": -10
+    },
+    {
+      "abr": "helixfossil",
+      "category": "Fossils",
+      "defname": "PW_HelixFossil",
+      "price": 167
+    },
+    {
+      "abr": "heracross",
+      "category": "Animals",
+      "defname": "PW_Heracross",
+      "price": -10
+    },
+    {
+      "abr": "hippopotas",
+      "category": "Animals",
+      "defname": "PW_Hippopotas",
+      "price": -10
+    },
+    {
+      "abr": "hippowdon",
+      "category": "Animals",
+      "defname": "PW_Hippowdon",
+      "price": -10
+    },
+    {
+      "abr": "hitmonchan",
+      "category": "Animals",
+      "defname": "PW_Hitmonchan",
+      "price": -10
+    },
+    {
+      "abr": "hitmonlee",
+      "category": "Animals",
+      "defname": "PW_Hitmonlee",
+      "price": -10
+    },
+    {
+      "abr": "hitmontop",
+      "category": "Animals",
+      "defname": "PW_Hitmontop",
+      "price": -10
+    },
+    {
+      "abr": "honchkrow",
+      "category": "Animals",
+      "defname": "PW_Honchkrow",
+      "price": -10
+    },
+    {
+      "abr": "ho-oh",
+      "category": "Animals",
+      "defname": "PW_HoOh",
+      "price": -10
+    },
+    {
+      "abr": "hoothoot",
+      "category": "Animals",
+      "defname": "PW_Hoothoot",
+      "price": -10
+    },
+    {
+      "abr": "hoppip",
+      "category": "Animals",
+      "defname": "PW_Hoppip",
+      "price": -10
+    },
+    {
+      "abr": "horsea",
+      "category": "Animals",
+      "defname": "PW_Horsea",
+      "price": -10
+    },
+    {
+      "abr": "houndoom",
+      "category": "Animals",
+      "defname": "PW_Houndoom",
+      "price": -10
+    },
+    {
+      "abr": "houndour",
+      "category": "Animals",
+      "defname": "PW_Houndour",
+      "price": -10
+    },
+    {
+      "abr": "huntail",
+      "category": "Animals",
+      "defname": "PW_Huntail",
+      "price": -10
+    },
+    {
+      "abr": "hyperpotion",
+      "category": "Healing",
+      "defname": "PW_HyperPotion",
+      "price": 33
+    },
+    {
+      "abr": "hypno",
+      "category": "Animals",
+      "defname": "PW_Hypno",
+      "price": -10
+    },
+    {
+      "abr": "icestone",
+      "category": "Stones",
+      "defname": "PW_IceStone",
+      "price": 250
+    },
+    {
+      "abr": "igglybuff",
+      "category": "Animals",
+      "defname": "PW_Igglybuff",
+      "price": -10
+    },
+    {
+      "abr": "illumise",
+      "category": "Animals",
+      "defname": "PW_Illumise",
+      "price": -10
+    },
+    {
+      "abr": "infernape",
+      "category": "Animals",
+      "defname": "PW_Infernape",
+      "price": -10
+    },
+    {
+      "abr": "ivysaur",
+      "category": "Animals",
+      "defname": "PW_Ivysaur",
+      "price": -10
+    },
+    {
+      "abr": "jigglypuff",
+      "category": "Animals",
+      "defname": "PW_Jigglypuff",
+      "price": -10
+    },
+    {
+      "abr": "jirachi",
+      "category": "Animals",
+      "defname": "PW_Jirachi",
+      "price": -10
+    },
+    {
+      "abr": "jolteon",
+      "category": "Animals",
+      "defname": "PW_Jolteon",
+      "price": -10
+    },
+    {
+      "abr": "jumpluff",
+      "category": "Animals",
+      "defname": "PW_Jumpluff",
+      "price": -10
+    },
+    {
+      "abr": "jynx",
+      "category": "Animals",
+      "defname": "PW_Jynx",
+      "price": -10
+    },
+    {
+      "abr": "kabuto",
+      "category": "Animals",
+      "defname": "PW_Kabuto",
+      "price": -10
+    },
+    {
+      "abr": "kabutops",
+      "category": "Animals",
+      "defname": "PW_Kabutops",
+      "price": -10
+    },
+    {
+      "abr": "kadabra",
+      "category": "Animals",
+      "defname": "PW_Kadabra",
+      "price": -10
+    },
+    {
+      "abr": "kakuna",
+      "category": "Animals",
+      "defname": "PW_Kakuna",
+      "price": -10
+    },
+    {
+      "abr": "kangaskhan",
+      "category": "Animals",
+      "defname": "PW_Kangaskhan",
+      "price": -10
+    },
+    {
+      "abr": "kecleon",
+      "category": "Animals",
+      "defname": "PW_Kecleon",
+      "price": -10
+    },
+    {
+      "abr": "kingdra",
+      "category": "Animals",
+      "defname": "PW_Kingdra",
+      "price": -10
+    },
+    {
+      "abr": "kingler",
+      "category": "Animals",
+      "defname": "PW_Kingler",
+      "price": -10
+    },
+    {
+      "abr": "kingsrock",
+      "category": "Stones",
+      "defname": "PW_KingsRock",
+      "price": 250
+    },
+    {
+      "abr": "kirlia",
+      "category": "Animals",
+      "defname": "PW_Kirlia",
+      "price": -10
+    },
+    {
+      "abr": "koffing",
+      "category": "Animals",
+      "defname": "PW_Koffing",
+      "price": -10
+    },
+    {
+      "abr": "krabby",
+      "category": "Animals",
+      "defname": "PW_Krabby",
+      "price": -10
+    },
+    {
+      "abr": "kricketot",
+      "category": "Animals",
+      "defname": "PW_Kricketot",
+      "price": -10
+    },
+    {
+      "abr": "kricketune",
+      "category": "Animals",
+      "defname": "PW_Kricketune",
+      "price": -10
+    },
+    {
+      "abr": "kyogre",
+      "category": "Animals",
+      "defname": "PW_Kyogre",
+      "price": 50000
+    },
+    {
+      "abr": "lairon",
+      "category": "Animals",
+      "defname": "PW_Lairon",
+      "price": -10
+    },
+    {
+      "abr": "lanturn",
+      "category": "Animals",
+      "defname": "PW_Lanturn",
+      "price": -10
+    },
+    {
+      "abr": "lapras",
+      "category": "Animals",
+      "defname": "PW_Lapras",
+      "price": -10
+    },
+    {
+      "abr": "larvitar",
+      "category": "Animals",
+      "defname": "PW_Larvitar",
+      "price": -10
+    },
+    {
+      "abr": "latias",
+      "category": "Animals",
+      "defname": "PW_Latias",
+      "price": 50000
+    },
+    {
+      "abr": "latios",
+      "category": "Animals",
+      "defname": "PW_Latios",
+      "price": 50000
+    },
+    {
+      "abr": "leafstone",
+      "category": "Stones",
+      "defname": "PW_LeafStone",
+      "price": 250
+    },
+    {
+      "abr": "leafeon",
+      "category": "Animals",
+      "defname": "PW_Leafeon",
+      "price": -10
+    },
+    {
+      "abr": "ledian",
+      "category": "Animals",
+      "defname": "PW_Ledian",
+      "price": -10
+    },
+    {
+      "abr": "ledyba",
+      "category": "Animals",
+      "defname": "PW_Ledyba",
+      "price": -10
+    },
+    {
+      "abr": "legendaryleather",
+      "category": "Pokémon leathers",
+      "defname": "PW_Leather_Legendary",
+      "price": 40
+    },
+    {
+      "abr": "lickilicky",
+      "category": "Animals",
+      "defname": "PW_Lickilicky",
+      "price": -10
+    },
+    {
+      "abr": "lickitung",
+      "category": "Animals",
+      "defname": "PW_Lickitung",
+      "price": -10
+    },
+    {
+      "abr": "lileep",
+      "category": "Animals",
+      "defname": "PW_Lileep",
+      "price": -10
+    },
+    {
+      "abr": "linoone",
+      "category": "Animals",
+      "defname": "PW_Linoone",
+      "price": -10
+    },
+    {
+      "abr": "lombre",
+      "category": "Animals",
+      "defname": "PW_Lombre",
+      "price": -10
+    },
+    {
+      "abr": "lopunny",
+      "category": "Animals",
+      "defname": "PW_Lopunny",
+      "price": -10
+    },
+    {
+      "abr": "lotad",
+      "category": "Animals",
+      "defname": "PW_Lotad",
+      "price": -10
+    },
+    {
+      "abr": "loudred",
+      "category": "Animals",
+      "defname": "PW_Loudred",
+      "price": -10
+    },
+    {
+      "abr": "lucario",
+      "category": "Animals",
+      "defname": "PW_Lucario",
+      "price": -10
+    },
+    {
+      "abr": "ludicolo",
+      "category": "Animals",
+      "defname": "PW_Ludicolo",
+      "price": -10
+    },
+    {
+      "abr": "lugia",
+      "category": "Animals",
+      "defname": "PW_Lugia",
+      "price": 50000
+    },
+    {
+      "abr": "lumineon",
+      "category": "Animals",
+      "defname": "PW_Lumineon",
+      "price": -10
+    },
+    {
+      "abr": "lunatone",
+      "category": "Animals",
+      "defname": "PW_Lunatone",
+      "price": -10
+    },
+    {
+      "abr": "luvdisc",
+      "category": "Animals",
+      "defname": "PW_Luvdisc",
+      "price": -10
+    },
+    {
+      "abr": "luxio",
+      "category": "Animals",
+      "defname": "PW_Luxio",
+      "price": -10
+    },
+    {
+      "abr": "luxray",
+      "category": "Animals",
+      "defname": "PW_Luxray",
+      "price": -10
+    },
+    {
+      "abr": "machamp",
+      "category": "Animals",
+      "defname": "PW_Machamp",
+      "price": 1000
+    },
+    {
+      "abr": "machoke",
+      "category": "Animals",
+      "defname": "PW_Machoke",
+      "price": -10
+    },
+    {
+      "abr": "machop",
+      "category": "Animals",
+      "defname": "PW_Machop",
+      "price": -10
+    },
+    {
+      "abr": "magby",
+      "category": "Animals",
+      "defname": "PW_Magby",
+      "price": -10
+    },
+    {
+      "abr": "magcargo",
+      "category": "Animals",
+      "defname": "PW_Magcargo",
+      "price": -10
+    },
+    {
+      "abr": "magikarp",
+      "category": "Animals",
+      "defname": "PW_Magikarp",
+      "price": -10
+    },
+    {
+      "abr": "magmar",
+      "category": "Animals",
+      "defname": "PW_Magmar",
+      "price": -10
+    },
+    {
+      "abr": "magmortar",
+      "category": "Animals",
+      "defname": "PW_Magmortar",
+      "price": -10
+    },
+    {
+      "abr": "magnemite",
+      "category": "Animals",
+      "defname": "PW_Magnemite",
+      "price": -10
+    },
+    {
+      "abr": "magneton",
+      "category": "Animals",
+      "defname": "PW_Magneton",
+      "price": -10
+    },
+    {
+      "abr": "magnezone",
+      "category": "Animals",
+      "defname": "PW_Magnezone",
+      "price": -10
+    },
+    {
+      "abr": "makuhita",
+      "category": "Animals",
+      "defname": "PW_Makuhita",
+      "price": -10
+    },
+    {
+      "abr": "mamoswine",
+      "category": "Animals",
+      "defname": "PW_Mamoswine",
+      "price": -10
+    },
+    {
+      "abr": "manaphy",
+      "category": "Animals",
+      "defname": "PW_Manaphy",
+      "price": -10
+    },
+    {
+      "abr": "manectric",
+      "category": "Animals",
+      "defname": "PW_Manectric",
+      "price": -10
+    },
+    {
+      "abr": "mankey",
+      "category": "Animals",
+      "defname": "PW_Mankey",
+      "price": -10
+    },
+    {
+      "abr": "mantine",
+      "category": "Animals",
+      "defname": "PW_Mantine",
+      "price": -10
+    },
+    {
+      "abr": "mantyke",
+      "category": "Animals",
+      "defname": "PW_Mantyke",
+      "price": -10
+    },
+    {
+      "abr": "mareep",
+      "category": "Animals",
+      "defname": "PW_Mareep",
+      "price": -10
+    },
+    {
+      "abr": "marill",
+      "category": "Animals",
+      "defname": "PW_Marill",
+      "price": -10
+    },
+    {
+      "abr": "marowak",
+      "category": "Animals",
+      "defname": "PW_Marowak",
+      "price": -10
+    },
+    {
+      "abr": "marshtomp",
+      "category": "Animals",
+      "defname": "PW_Marshtomp",
+      "price": 750
+    },
+    {
+      "abr": "masquerain",
+      "category": "Animals",
+      "defname": "PW_Masquerain",
+      "price": -10
+    },
+    {
+      "abr": "masterballbelt",
+      "category": "Poké Ball belts",
+      "defname": "PW_MasterBallBelt",
+      "price": 10000
+    },
+    {
+      "abr": "mawile",
+      "category": "Animals",
+      "defname": "PW_Mawile",
+      "price": -10
+    },
+    {
+      "abr": "maxpotion",
+      "category": "Healing",
+      "defname": "PW_MaxPotion",
+      "price": 67
+    },
+    {
+      "abr": "medicham",
+      "category": "Animals",
+      "defname": "PW_Medicham",
+      "price": -10
+    },
+    {
+      "abr": "meditite",
+      "category": "Animals",
+      "defname": "PW_Meditite",
+      "price": -10
+    },
+    {
+      "abr": "meganium",
+      "category": "Animals",
+      "defname": "PW_Meganium",
+      "price": -10
+    },
+    {
+      "abr": "meowth",
+      "category": "Animals",
+      "defname": "PW_Meowth",
+      "price": -10
+    },
+    {
+      "abr": "mesprit",
+      "category": "Animals",
+      "defname": "PW_Mesprit",
+      "price": -10
+    },
+    {
+      "abr": "metagross",
+      "category": "Animals",
+      "defname": "PW_Metagross",
+      "price": 1167
+    },
+    {
+      "abr": "metang",
+      "category": "Animals",
+      "defname": "PW_Metang",
+      "price": -10
+    },
+    {
+      "abr": "metapod",
+      "category": "Animals",
+      "defname": "PW_Metapod",
+      "price": -10
+    },
+    {
+      "abr": "mew",
+      "category": "Animals",
+      "defname": "PW_Mew",
+      "price": 50000
+    },
+    {
+      "abr": "mewtwo",
+      "category": "Animals",
+      "defname": "PW_Mewtwo",
+      "price": 50000
+    },
+    {
+      "abr": "mightyena",
+      "category": "Animals",
+      "defname": "PW_Mightyena",
+      "price": -10
+    },
+    {
+      "abr": "milotic",
+      "category": "Animals",
+      "defname": "PW_Milotic",
+      "price": -10
+    },
+    {
+      "abr": "miltank",
+      "category": "Animals",
+      "defname": "PW_Miltank",
+      "price": -10
+    },
+    {
+      "abr": "mimejr.",
+      "category": "Animals",
+      "defname": "PW_MimeJr",
+      "price": -10
+    },
+    {
+      "abr": "minun",
+      "category": "Animals",
+      "defname": "PW_Minun",
+      "price": -10
+    },
+    {
+      "abr": "misdreavus",
+      "category": "Animals",
+      "defname": "PW_Misdreavus",
+      "price": -10
+    },
+    {
+      "abr": "mismagius",
+      "category": "Animals",
+      "defname": "PW_Mismagius",
+      "price": -10
+    },
+    {
+      "abr": "moltres",
+      "category": "Animals",
+      "defname": "PW_Moltres",
+      "price": 50000
+    },
+    {
+      "abr": "monferno",
+      "category": "Animals",
+      "defname": "PW_Monferno",
+      "price": -10
+    },
+    {
+      "abr": "moonstone",
+      "category": "Stones",
+      "defname": "PW_MoonStone",
+      "price": 250
+    },
+    {
+      "abr": "mothim",
+      "category": "Animals",
+      "defname": "PW_Mothim",
+      "price": -10
+    },
+    {
+      "abr": "mr.mime",
+      "category": "Animals",
+      "defname": "PW_MrMime",
+      "price": 917
+    },
+    {
+      "abr": "mudkip",
+      "category": "Animals",
+      "defname": "PW_Mudkip",
+      "price": -10
+    },
+    {
+      "abr": "muk",
+      "category": "Animals",
+      "defname": "PW_Muk",
+      "price": -10
+    },
+    {
+      "abr": "munchlax",
+      "category": "Animals",
+      "defname": "PW_Munchlax",
+      "price": -10
+    },
+    {
+      "abr": "murkrow",
+      "category": "Animals",
+      "defname": "PW_Murkrow",
+      "price": -10
+    },
+    {
+      "abr": "natu",
+      "category": "Animals",
+      "defname": "PW_Natu",
+      "price": -10
+    },
+    {
+      "abr": "nidoking",
+      "category": "Animals",
+      "defname": "PW_Nidoking",
+      "price": -10
+    },
+    {
+      "abr": "nidoqueen",
+      "category": "Animals",
+      "defname": "PW_Nidoqueen",
+      "price": -10
+    },
+    {
+      "abr": "nidoran♀",
+      "category": "Animals",
+      "defname": "PW_NidoranF",
+      "price": -10
+    },
+    {
+      "abr": "nidoran♂",
+      "category": "Animals",
+      "defname": "PW_NidoranM",
+      "price": -10
+    },
+    {
+      "abr": "nidorina",
+      "category": "Animals",
+      "defname": "PW_Nidorina",
+      "price": -10
+    },
+    {
+      "abr": "nidorino",
+      "category": "Animals",
+      "defname": "PW_Nidorino",
+      "price": -10
+    },
+    {
+      "abr": "nincada",
+      "category": "Animals",
+      "defname": "PW_Nincada",
+      "price": -10
+    },
+    {
+      "abr": "ninetales",
+      "category": "Animals",
+      "defname": "PW_Ninetales",
+      "price": -10
+    },
+    {
+      "abr": "ninjask",
+      "category": "Animals",
+      "defname": "PW_Ninjask",
+      "price": -10
+    },
+    {
+      "abr": "noctowl",
+      "category": "Animals",
+      "defname": "PW_Noctowl",
+      "price": -10
+    },
+    {
+      "abr": "nosepass",
+      "category": "Animals",
+      "defname": "PW_Nosepass",
+      "price": -10
+    },
+    {
+      "abr": "numel",
+      "category": "Animals",
+      "defname": "PW_Numel",
+      "price": -10
+    },
+    {
+      "abr": "nuzleaf",
+      "category": "Animals",
+      "defname": "PW_Nuzleaf",
+      "price": -10
+    },
+    {
+      "abr": "octillery",
+      "category": "Animals",
+      "defname": "PW_Octillery",
+      "price": -10
+    },
+    {
+      "abr": "oddish",
+      "category": "Animals",
+      "defname": "PW_Oddish",
+      "price": -10
+    },
+    {
+      "abr": "oldamber",
+      "category": "Fossils",
+      "defname": "PW_OldAmber",
+      "price": 167
+    },
+    {
+      "abr": "omanyte",
+      "category": "Animals",
+      "defname": "PW_Omanyte",
+      "price": -10
+    },
+    {
+      "abr": "omastar",
+      "category": "Animals",
+      "defname": "PW_Omastar",
+      "price": -10
+    },
+    {
+      "abr": "onix",
+      "category": "Animals",
+      "defname": "PW_Onix",
+      "price": -10
+    },
+    {
+      "abr": "pachirisu",
+      "category": "Animals",
+      "defname": "PW_Pachirisu",
+      "price": -10
+    },
+    {
+      "abr": "palkia",
+      "category": "Animals",
+      "defname": "PW_Palkia",
+      "price": -10
+    },
+    {
+      "abr": "paras",
+      "category": "Animals",
+      "defname": "PW_Paras",
+      "price": -10
+    },
+    {
+      "abr": "parasect",
+      "category": "Animals",
+      "defname": "PW_Parasect",
+      "price": -10
+    },
+    {
+      "abr": "pelipper",
+      "category": "Animals",
+      "defname": "PW_Pelipper",
+      "price": -10
+    },
+    {
+      "abr": "persian",
+      "category": "Animals",
+      "defname": "PW_Persian",
+      "price": -10
+    },
+    {
+      "abr": "phanpy",
+      "category": "Animals",
+      "defname": "PW_Phanpy",
+      "price": -10
+    },
+    {
+      "abr": "phione",
+      "category": "Animals",
+      "defname": "PW_Phione",
+      "price": -10
+    },
+    {
+      "abr": "pichu",
+      "category": "Animals",
+      "defname": "PW_Pichu",
+      "price": -10
+    },
+    {
+      "abr": "pidgeot",
+      "category": "Animals",
+      "defname": "PW_Pidgeot",
+      "price": -10
+    },
+    {
+      "abr": "pidgeotto",
+      "category": "Animals",
+      "defname": "PW_Pidgeotto",
+      "price": -10
+    },
+    {
+      "abr": "pidgey",
+      "category": "Animals",
+      "defname": "PW_Pidgey",
+      "price": -10
+    },
+    {
+      "abr": "pikachu",
+      "category": "Animals",
+      "defname": "PW_Pikachu",
+      "price": -10
+    },
+    {
+      "abr": "piloswine",
+      "category": "Animals",
+      "defname": "PW_Piloswine",
+      "price": -10
+    },
+    {
+      "abr": "pineco",
+      "category": "Animals",
+      "defname": "PW_Pineco",
+      "price": -10
+    },
+    {
+      "abr": "pinsir",
+      "category": "Animals",
+      "defname": "PW_Pinsir",
+      "price": -10
+    },
+    {
+      "abr": "piplup",
+      "category": "Animals",
+      "defname": "PW_Piplup",
+      "price": -10
+    },
+    {
+      "abr": "plusle",
+      "category": "Animals",
+      "defname": "PW_Plusle",
+      "price": -10
+    },
+    {
+      "abr": "pokéballbelt",
+      "category": "Poké Ball belts",
+      "defname": "PW_PokeBallBelt",
+      "price": 1000
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBulbasaur",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCharmander",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSquirtle",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCaterpie",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWeedle",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPidgey",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRattata",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpearow",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggEkans",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSandshrew",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNidoranF",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNidoranM",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggVulpix",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggZubat",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggOddish",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggParas",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggVenonat",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDiglett",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMeowth",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPsyduck",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMankey",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGrowlithe",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPoliwag",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAbra",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMachop",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBellsprout",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTentacool",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGeodude",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPonyta",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSlowpoke",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMagnemite",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggFarfetchd",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDoduo",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSeel",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGrimer",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShellder",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGastly",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggOnix",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDrowzee",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKrabby",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggVoltorb",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggExeggcute",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCubone",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLickitung",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKoffing",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRhyhorn",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTangela",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKangaskhan",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHorsea",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGoldeen",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggStaryu",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggScyther",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPinsir",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTauros",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMagikarp",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLapras",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggEevee",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPorygon",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggOmanyte",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKabuto",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAerodactyl",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDratini",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChikorita",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCyndaquil",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTotodile",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSentret",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHoothoot",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLedyba",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpinarak",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChinchou",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPichu",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCleffa",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggIgglybuff",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTogepi",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNatu",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMareep",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHoppip",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAipom",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSunkern",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggYanma",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWooper",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMurkrow",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMisdreavus",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGirafarig",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPineco",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDunsparce",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGligar",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSnubbull",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggQwilfish",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShuckle",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHeracross",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSneasel",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTeddiursa",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSlugma",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSwinub",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCorsola",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRemoraid",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDelibird",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSkarmory",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHoundour",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPhanpy",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggStantler",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSmeargle",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTyrogue",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSmoochum",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggElekid",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMagby",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMiltank",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLarvitar",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTreecko",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTorchic",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMudkip",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPoochyena",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggZigzagoon",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWurmple",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLotad",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSeedot",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTaillow",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWingull",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRalts",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSurskit",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShroomish",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSlakoth",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNincada",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWhismur",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMakuhita",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAzurill",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNosepass",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSkitty",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSableye",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMawile",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAron",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMeditite",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggElectrike",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPlusle",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMinun",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggVolbeat",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggIllumise",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGulpin",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCarvanha",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWailmer",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNumel",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTorkoal",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpoink",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpinda",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTrapinch",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCacnea",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSwablu",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggZangoose",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSeviper",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLunatone",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSolrock",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBarboach",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCorphish",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBaltoy",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLileep",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAnorith",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggFeebas",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCastform",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKecleon",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShuppet",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDuskull",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTropius",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAbsol",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWynaut",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSnorunt",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpheal",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggClamperl",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRelicanth",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLuvdisc",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBagon",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBeldum",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTurtwig",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChimchar",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPiplup",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggStarly",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBidoof",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKricketot",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShinx",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBudew",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCranidos",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShieldon",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBurmy",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCombee",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPachirisu",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBuizel",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCherubi",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShellos",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDrifloon",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBuneary",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGlameow",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChingling",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggStunky",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBronzor",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBonsly",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMimeJr",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHappiny",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChatot",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpiritomb",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGible",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMunchlax",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRiolu",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHippopotas",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSkorupi",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCroagunk",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCarnivine",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggFinneon",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMantyke",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSnover",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRotom",
+      "price": 333
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPhione",
+      "price": 333
+    },
+    {
+      "abr": "pokémonmeat",
+      "category": "Meat",
+      "defname": "Meat_PW_Bulbasaur",
+      "price": 3
+    },
+    {
+      "abr": "pokémonmeat",
+      "category": "Meat",
+      "defname": "Meat_PW_Venusaur",
+      "price": 3
+    },
+    {
+      "abr": "politoed",
+      "category": "Animals",
+      "defname": "PW_Politoed",
+      "price": -10
+    },
+    {
+      "abr": "poliwag",
+      "category": "Animals",
+      "defname": "PW_Poliwag",
+      "price": -10
+    },
+    {
+      "abr": "poliwhirl",
+      "category": "Animals",
+      "defname": "PW_Poliwhirl",
+      "price": -10
+    },
+    {
+      "abr": "poliwrath",
+      "category": "Animals",
+      "defname": "PW_Poliwrath",
+      "price": -10
+    },
+    {
+      "abr": "ponyta",
+      "category": "Animals",
+      "defname": "PW_Ponyta",
+      "price": -10
+    },
+    {
+      "abr": "poochyena",
+      "category": "Animals",
+      "defname": "PW_Poochyena",
+      "price": -10
+    },
+    {
+      "abr": "portablecomputer",
+      "category": "Buildings",
+      "defname": "PW_PortableComputer",
+      "price": 317
+    },
+    {
+      "abr": "porygon",
+      "category": "Animals",
+      "defname": "PW_Porygon",
+      "price": -10
+    },
+    {
+      "abr": "porygon2",
+      "category": "Animals",
+      "defname": "PW_Porygon2_",
+      "price": -10
+    },
+    {
+      "abr": "porygon-z",
+      "category": "Animals",
+      "defname": "PW_PorygonZ",
+      "price": -10
+    },
+    {
+      "abr": "potion",
+      "category": "Healing",
+      "defname": "PW_Potion",
+      "price": 17
+    },
+    {
+      "abr": "primeape",
+      "category": "Animals",
+      "defname": "PW_Primeape",
+      "price": -10
+    },
+    {
+      "abr": "prinplup",
+      "category": "Animals",
+      "defname": "PW_Prinplup",
+      "price": -10
+    },
+    {
+      "abr": "probopass",
+      "category": "Animals",
+      "defname": "PW_Probopass",
+      "price": -10
+    },
+    {
+      "abr": "psyduck",
+      "category": "Animals",
+      "defname": "PW_Psyduck",
+      "price": -10
+    },
+    {
+      "abr": "pupitar",
+      "category": "Animals",
+      "defname": "PW_Pupitar",
+      "price": -10
+    },
+    {
+      "abr": "purugly",
+      "category": "Animals",
+      "defname": "PW_Purugly",
+      "price": -10
+    },
+    {
+      "abr": "quagsire",
+      "category": "Animals",
+      "defname": "PW_Quagsire",
+      "price": -10
+    },
+    {
+      "abr": "quilava",
+      "category": "Animals",
+      "defname": "PW_Quilava",
+      "price": -10
+    },
+    {
+      "abr": "qwilfish",
+      "category": "Animals",
+      "defname": "PW_Qwilfish",
+      "price": -10
+    },
+    {
+      "abr": "raichu",
+      "category": "Animals",
+      "defname": "PW_Raichu",
+      "price": -10
+    },
+    {
+      "abr": "raikou",
+      "category": "Animals",
+      "defname": "PW_Raikou",
+      "price": 50000
+    },
+    {
+      "abr": "ralts",
+      "category": "Animals",
+      "defname": "PW_Ralts",
+      "price": -10
+    },
+    {
+      "abr": "rampardos",
+      "category": "Animals",
+      "defname": "PW_Rampardos",
+      "price": -10
+    },
+    {
+      "abr": "rapidash",
+      "category": "Animals",
+      "defname": "PW_Rapidash",
+      "price": -10
+    },
+    {
+      "abr": "rarecandy",
+      "category": "Healing",
+      "defname": "PW_RareCandy",
+      "price": 500
+    },
+    {
+      "abr": "raticate",
+      "category": "Animals",
+      "defname": "PW_Raticate",
+      "price": -10
+    },
+    {
+      "abr": "rattata",
+      "category": "Animals",
+      "defname": "PW_Rattata",
+      "price": -10
+    },
+    {
+      "abr": "rayquaza",
+      "category": "Animals",
+      "defname": "PW_Rayquaza",
+      "price": 50000
+    },
+    {
+      "abr": "regice",
+      "category": "Animals",
+      "defname": "PW_Regice",
+      "price": -10
+    },
+    {
+      "abr": "regigigas",
+      "category": "Animals",
+      "defname": "PW_Regigigas",
+      "price": -10
+    },
+    {
+      "abr": "regirock",
+      "category": "Animals",
+      "defname": "PW_Regirock",
+      "price": -10
+    },
+    {
+      "abr": "registeel",
+      "category": "Animals",
+      "defname": "PW_Registeel",
+      "price": -10
+    },
+    {
+      "abr": "relicanth",
+      "category": "Animals",
+      "defname": "PW_Relicanth",
+      "price": -10
+    },
+    {
+      "abr": "remoraid",
+      "category": "Animals",
+      "defname": "PW_Remoraid",
+      "price": -10
+    },
+    {
+      "abr": "rhydon",
+      "category": "Animals",
+      "defname": "PW_Rhydon",
+      "price": -10
+    },
+    {
+      "abr": "rhyhorn",
+      "category": "Animals",
+      "defname": "PW_Rhyhorn",
+      "price": -10
+    },
+    {
+      "abr": "rhyperior",
+      "category": "Animals",
+      "defname": "PW_Rhyperior",
+      "price": -10
+    },
+    {
+      "abr": "riolu",
+      "category": "Animals",
+      "defname": "PW_Riolu",
+      "price": -10
+    },
+    {
+      "abr": "rootfossil",
+      "category": "Fossils",
+      "defname": "PW_RootFossil",
+      "price": 167
+    },
+    {
+      "abr": "roselia",
+      "category": "Animals",
+      "defname": "PW_Roselia",
+      "price": -10
+    },
+    {
+      "abr": "roserade",
+      "category": "Animals",
+      "defname": "PW_Roserade",
+      "price": -10
+    },
+    {
+      "abr": "rotom",
+      "category": "Animals",
+      "defname": "PW_Rotom",
+      "price": -10
+    },
+    {
+      "abr": "sableye",
+      "category": "Animals",
+      "defname": "PW_Sableye",
+      "price": -10
+    },
+    {
+      "abr": "salamence",
+      "category": "Animals",
+      "defname": "PW_Salamence",
+      "price": -10
+    },
+    {
+      "abr": "sandshrew",
+      "category": "Animals",
+      "defname": "PW_Sandshrew",
+      "price": -10
+    },
+    {
+      "abr": "sandslash",
+      "category": "Animals",
+      "defname": "PW_Sandslash",
+      "price": -10
+    },
+    {
+      "abr": "sceptile",
+      "category": "Animals",
+      "defname": "PW_Sceptile",
+      "price": -10
+    },
+    {
+      "abr": "scizor",
+      "category": "Animals",
+      "defname": "PW_Scizor",
+      "price": -10
+    },
+    {
+      "abr": "scyther",
+      "category": "Animals",
+      "defname": "PW_Scyther",
+      "price": -10
+    },
+    {
+      "abr": "seadra",
+      "category": "Animals",
+      "defname": "PW_Seadra",
+      "price": -10
+    },
+    {
+      "abr": "seaking",
+      "category": "Animals",
+      "defname": "PW_Seaking",
+      "price": -10
+    },
+    {
+      "abr": "sealeo",
+      "category": "Animals",
+      "defname": "PW_Sealeo",
+      "price": -10
+    },
+    {
+      "abr": "seedot",
+      "category": "Animals",
+      "defname": "PW_Seedot",
+      "price": -10
+    },
+    {
+      "abr": "seel",
+      "category": "Animals",
+      "defname": "PW_Seel",
+      "price": 667
+    },
+    {
+      "abr": "sentret",
+      "category": "Animals",
+      "defname": "PW_Sentret",
+      "price": -10
+    },
+    {
+      "abr": "seviper",
+      "category": "Animals",
+      "defname": "PW_Seviper",
+      "price": -10
+    },
+    {
+      "abr": "sharpedo",
+      "category": "Animals",
+      "defname": "PW_Sharpedo",
+      "price": -10
+    },
+    {
+      "abr": "shaymin",
+      "category": "Animals",
+      "defname": "PW_Shaymin",
+      "price": -10
+    },
+    {
+      "abr": "shedinja",
+      "category": "Animals",
+      "defname": "PW_Shedinja",
+      "price": -10
+    },
+    {
+      "abr": "shelgon",
+      "category": "Animals",
+      "defname": "PW_Shelgon",
+      "price": -10
+    },
+    {
+      "abr": "shellder",
+      "category": "Animals",
+      "defname": "PW_Shellder",
+      "price": -10
+    },
+    {
+      "abr": "shellos",
+      "category": "Animals",
+      "defname": "PW_Shellos",
+      "price": -10
+    },
+    {
+      "abr": "shieldon",
+      "category": "Animals",
+      "defname": "PW_Shieldon",
+      "price": -10
+    },
+    {
+      "abr": "shiftry",
+      "category": "Animals",
+      "defname": "PW_Shiftry",
+      "price": -10
+    },
+    {
+      "abr": "shinx",
+      "category": "Animals",
+      "defname": "PW_Shinx",
+      "price": -10
+    },
+    {
+      "abr": "shinystone",
+      "category": "Stones",
+      "defname": "PW_ShinyStone",
+      "price": 250
+    },
+    {
+      "abr": "shroomish",
+      "category": "Animals",
+      "defname": "PW_Shroomish",
+      "price": -10
+    },
+    {
+      "abr": "shuckle",
+      "category": "Animals",
+      "defname": "PW_Shuckle",
+      "price": -10
+    },
+    {
+      "abr": "shuppet",
+      "category": "Animals",
+      "defname": "PW_Shuppet",
+      "price": -10
+    },
+    {
+      "abr": "silcoon",
+      "category": "Animals",
+      "defname": "PW_Silcoon",
+      "price": -10
+    },
+    {
+      "abr": "skarmory",
+      "category": "Animals",
+      "defname": "PW_Skarmory",
+      "price": -10
+    },
+    {
+      "abr": "skiploom",
+      "category": "Animals",
+      "defname": "PW_Skiploom",
+      "price": -10
+    },
+    {
+      "abr": "skitty",
+      "category": "Animals",
+      "defname": "PW_Skitty",
+      "price": -10
+    },
+    {
+      "abr": "skorupi",
+      "category": "Animals",
+      "defname": "PW_Skorupi",
+      "price": -10
+    },
+    {
+      "abr": "skullfossil",
+      "category": "Fossils",
+      "defname": "PW_SkullFossil",
+      "price": 167
+    },
+    {
+      "abr": "skuntank",
+      "category": "Animals",
+      "defname": "PW_Skuntank",
+      "price": -10
+    },
+    {
+      "abr": "slaking",
+      "category": "Animals",
+      "defname": "PW_Slaking",
+      "price": -10
+    },
+    {
+      "abr": "slakoth",
+      "category": "Animals",
+      "defname": "PW_Slakoth",
+      "price": -10
+    },
+    {
+      "abr": "slowbro",
+      "category": "Animals",
+      "defname": "PW_Slowbro",
+      "price": -10
+    },
+    {
+      "abr": "slowking",
+      "category": "Animals",
+      "defname": "PW_Slowking",
+      "price": -10
+    },
+    {
+      "abr": "slowpoke",
+      "category": "Animals",
+      "defname": "PW_Slowpoke",
+      "price": -10
+    },
+    {
+      "abr": "slugma",
+      "category": "Animals",
+      "defname": "PW_Slugma",
+      "price": -10
+    },
+    {
+      "abr": "smeargle",
+      "category": "Animals",
+      "defname": "PW_Smeargle",
+      "price": -10
+    },
+    {
+      "abr": "smoochum",
+      "category": "Animals",
+      "defname": "PW_Smoochum",
+      "price": -10
+    },
+    {
+      "abr": "sneasel",
+      "category": "Animals",
+      "defname": "PW_Sneasel",
+      "price": -10
+    },
+    {
+      "abr": "snorlax",
+      "category": "Animals",
+      "defname": "PW_Snorlax",
+      "price": -10
+    },
+    {
+      "abr": "snorunt",
+      "category": "Animals",
+      "defname": "PW_Snorunt",
+      "price": -10
+    },
+    {
+      "abr": "snover",
+      "category": "Animals",
+      "defname": "PW_Snover",
+      "price": -10
+    },
+    {
+      "abr": "snubbull",
+      "category": "Animals",
+      "defname": "PW_Snubbull",
+      "price": -10
+    },
+    {
+      "abr": "solrock",
+      "category": "Animals",
+      "defname": "PW_Solrock",
+      "price": -10
+    },
+    {
+      "abr": "spearow",
+      "category": "Animals",
+      "defname": "PW_Spearow",
+      "price": -10
+    },
+    {
+      "abr": "spheal",
+      "category": "Animals",
+      "defname": "PW_Spheal",
+      "price": -10
+    },
+    {
+      "abr": "spinarak",
+      "category": "Animals",
+      "defname": "PW_Spinarak",
+      "price": -10
+    },
+    {
+      "abr": "spinda",
+      "category": "Animals",
+      "defname": "PW_Spinda",
+      "price": -10
+    },
+    {
+      "abr": "spiritomb",
+      "category": "Animals",
+      "defname": "PW_Spiritomb",
+      "price": -10
+    },
+    {
+      "abr": "spoink",
+      "category": "Animals",
+      "defname": "PW_Spoink",
+      "price": -10
+    },
+    {
+      "abr": "squirtle",
+      "category": "Animals",
+      "defname": "PW_Squirtle",
+      "price": -10
+    },
+    {
+      "abr": "stantler",
+      "category": "Animals",
+      "defname": "PW_Stantler",
+      "price": -10
+    },
+    {
+      "abr": "staraptor",
+      "category": "Animals",
+      "defname": "PW_Staraptor",
+      "price": -10
+    },
+    {
+      "abr": "staravia",
+      "category": "Animals",
+      "defname": "PW_Staravia",
+      "price": -10
+    },
+    {
+      "abr": "starly",
+      "category": "Animals",
+      "defname": "PW_Starly",
+      "price": -10
+    },
+    {
+      "abr": "starmie",
+      "category": "Animals",
+      "defname": "PW_Starmie",
+      "price": -10
+    },
+    {
+      "abr": "staryu",
+      "category": "Animals",
+      "defname": "PW_Staryu",
+      "price": -10
+    },
+    {
+      "abr": "steelix",
+      "category": "Animals",
+      "defname": "PW_Steelix",
+      "price": -10
+    },
+    {
+      "abr": "stunky",
+      "category": "Animals",
+      "defname": "PW_Stunky",
+      "price": -10
+    },
+    {
+      "abr": "sudowoodo",
+      "category": "Animals",
+      "defname": "PW_Sudowoodo",
+      "price": -10
+    },
+    {
+      "abr": "suicune",
+      "category": "Animals",
+      "defname": "PW_Suicune",
+      "price": 50000
+    },
+    {
+      "abr": "sunflora",
+      "category": "Animals",
+      "defname": "PW_Sunflora",
+      "price": -10
+    },
+    {
+      "abr": "sunkern",
+      "category": "Animals",
+      "defname": "PW_Sunkern",
+      "price": -10
+    },
+    {
+      "abr": "surskit",
+      "category": "Animals",
+      "defname": "PW_Surskit",
+      "price": -10
+    },
+    {
+      "abr": "swablu",
+      "category": "Animals",
+      "defname": "PW_Swablu",
+      "price": -10
+    },
+    {
+      "abr": "swalot",
+      "category": "Animals",
+      "defname": "PW_Swalot",
+      "price": -10
+    },
+    {
+      "abr": "swampert",
+      "category": "Animals",
+      "defname": "PW_Swampert",
+      "price": -10
+    },
+    {
+      "abr": "swellow",
+      "category": "Animals",
+      "defname": "PW_Swellow",
+      "price": -10
+    },
+    {
+      "abr": "swinub",
+      "category": "Animals",
+      "defname": "PW_Swinub",
+      "price": -10
+    },
+    {
+      "abr": "taillow",
+      "category": "Animals",
+      "defname": "PW_Taillow",
+      "price": -10
+    },
+    {
+      "abr": "tangela",
+      "category": "Animals",
+      "defname": "PW_Tangela",
+      "price": -10
+    },
+    {
+      "abr": "tangrowth",
+      "category": "Animals",
+      "defname": "PW_Tangrowth",
+      "price": -10
+    },
+    {
+      "abr": "tauros",
+      "category": "Animals",
+      "defname": "PW_Tauros",
+      "price": -10
+    },
+    {
+      "abr": "teddiursa",
+      "category": "Animals",
+      "defname": "PW_Teddiursa",
+      "price": -10
+    },
+    {
+      "abr": "tentacool",
+      "category": "Animals",
+      "defname": "PW_Tentacool",
+      "price": -10
+    },
+    {
+      "abr": "tentacruel",
+      "category": "Animals",
+      "defname": "PW_Tentacruel",
+      "price": -10
+    },
+    {
+      "abr": "thunderstone",
+      "category": "Stones",
+      "defname": "PW_ThunderStone",
+      "price": 250
+    },
+    {
+      "abr": "togekiss",
+      "category": "Animals",
+      "defname": "PW_Togekiss",
+      "price": -10
+    },
+    {
+      "abr": "togepi",
+      "category": "Animals",
+      "defname": "PW_Togepi",
+      "price": -10
+    },
+    {
+      "abr": "togetic",
+      "category": "Animals",
+      "defname": "PW_Togetic",
+      "price": -10
+    },
+    {
+      "abr": "torchic",
+      "category": "Animals",
+      "defname": "PW_Torchic",
+      "price": -10
+    },
+    {
+      "abr": "torkoal",
+      "category": "Animals",
+      "defname": "PW_Torkoal",
+      "price": -10
+    },
+    {
+      "abr": "torterra",
+      "category": "Animals",
+      "defname": "PW_Torterra",
+      "price": -10
+    },
+    {
+      "abr": "totodile",
+      "category": "Animals",
+      "defname": "PW_Totodile",
+      "price": -10
+    },
+    {
+      "abr": "toxicroak",
+      "category": "Animals",
+      "defname": "PW_Toxicroak",
+      "price": -10
+    },
+    {
+      "abr": "trapinch",
+      "category": "Animals",
+      "defname": "PW_Trapinch",
+      "price": -10
+    },
+    {
+      "abr": "treecko",
+      "category": "Animals",
+      "defname": "PW_Treecko",
+      "price": -10
+    },
+    {
+      "abr": "tropius",
+      "category": "Animals",
+      "defname": "PW_Tropius",
+      "price": -10
+    },
+    {
+      "abr": "turtwig",
+      "category": "Animals",
+      "defname": "PW_Turtwig",
+      "price": -10
+    },
+    {
+      "abr": "typhlosion",
+      "category": "Animals",
+      "defname": "PW_Typhlosion",
+      "price": -10
+    },
+    {
+      "abr": "tyranitar",
+      "category": "Animals",
+      "defname": "PW_Tyranitar",
+      "price": -10
+    },
+    {
+      "abr": "tyrogue",
+      "category": "Animals",
+      "defname": "PW_Tyrogue",
+      "price": -10
+    },
+    {
+      "abr": "ultraballbelt",
+      "category": "Poké Ball belts",
+      "defname": "PW_UltraBallBelt",
+      "price": 3000
+    },
+    {
+      "abr": "umbreon",
+      "category": "Animals",
+      "defname": "PW_Umbreon",
+      "price": -10
+    },
+    {
+      "abr": "unown",
+      "category": "Animals",
+      "defname": "PW_Unown",
+      "price": -10
+    },
+    {
+      "abr": "upgrade",
+      "category": "Other",
+      "defname": "PW_Upgrade",
+      "price": 683
+    },
+    {
+      "abr": "ursaring",
+      "category": "Animals",
+      "defname": "PW_Ursaring",
+      "price": -10
+    },
+    {
+      "abr": "uxie",
+      "category": "Animals",
+      "defname": "PW_Uxie",
+      "price": -10
+    },
+    {
+      "abr": "vaporeon",
+      "category": "Animals",
+      "defname": "PW_Vaporeon",
+      "price": -10
+    },
+    {
+      "abr": "venomoth",
+      "category": "Animals",
+      "defname": "PW_Venomoth",
+      "price": -10
+    },
+    {
+      "abr": "venonat",
+      "category": "Animals",
+      "defname": "PW_Venonat",
+      "price": -10
+    },
+    {
+      "abr": "venusaur",
+      "category": "Animals",
+      "defname": "PW_Venusaur",
+      "price": -10
+    },
+    {
+      "abr": "vespiquen",
+      "category": "Animals",
+      "defname": "PW_Vespiquen",
+      "price": -10
+    },
+    {
+      "abr": "vibrava",
+      "category": "Animals",
+      "defname": "PW_Vibrava",
+      "price": -10
+    },
+    {
+      "abr": "victreebel",
+      "category": "Animals",
+      "defname": "PW_Victreebel",
+      "price": -10
+    },
+    {
+      "abr": "vigoroth",
+      "category": "Animals",
+      "defname": "PW_Vigoroth",
+      "price": -10
+    },
+    {
+      "abr": "vileplume",
+      "category": "Animals",
+      "defname": "PW_Vileplume",
+      "price": -10
+    },
+    {
+      "abr": "volbeat",
+      "category": "Animals",
+      "defname": "PW_Volbeat",
+      "price": -10
+    },
+    {
+      "abr": "voltorb",
+      "category": "Animals",
+      "defname": "PW_Voltorb",
+      "price": -10
+    },
+    {
+      "abr": "vulpix",
+      "category": "Animals",
+      "defname": "PW_Vulpix",
+      "price": -10
+    },
+    {
+      "abr": "wailmer",
+      "category": "Animals",
+      "defname": "PW_Wailmer",
+      "price": -10
+    },
+    {
+      "abr": "wailord",
+      "category": "Animals",
+      "defname": "PW_Wailord",
+      "price": -10
+    },
+    {
+      "abr": "walrein",
+      "category": "Animals",
+      "defname": "PW_Walrein",
+      "price": -10
+    },
+    {
+      "abr": "wartortle",
+      "category": "Animals",
+      "defname": "PW_Wartortle",
+      "price": -10
+    },
+    {
+      "abr": "waterstone",
+      "category": "Stones",
+      "defname": "PW_WaterStone",
+      "price": 250
+    },
+    {
+      "abr": "weavile",
+      "category": "Animals",
+      "defname": "PW_Weavile",
+      "price": -10
+    },
+    {
+      "abr": "weedle",
+      "category": "Animals",
+      "defname": "PW_Weedle",
+      "price": -10
+    },
+    {
+      "abr": "weepinbell",
+      "category": "Animals",
+      "defname": "PW_Weepinbell",
+      "price": -10
+    },
+    {
+      "abr": "weezing",
+      "category": "Animals",
+      "defname": "PW_Weezing",
+      "price": -10
+    },
+    {
+      "abr": "whiscash",
+      "category": "Animals",
+      "defname": "PW_Whiscash",
+      "price": -10
+    },
+    {
+      "abr": "whismur",
+      "category": "Animals",
+      "defname": "PW_Whismur",
+      "price": -10
+    },
+    {
+      "abr": "wigglytuff",
+      "category": "Animals",
+      "defname": "PW_Wigglytuff",
+      "price": -10
+    },
+    {
+      "abr": "wingull",
+      "category": "Animals",
+      "defname": "PW_Wingull",
+      "price": -10
+    },
+    {
+      "abr": "wobbuffet",
+      "category": "Animals",
+      "defname": "PW_Wobbuffet",
+      "price": -10
+    },
+    {
+      "abr": "wooper",
+      "category": "Animals",
+      "defname": "PW_Wooper",
+      "price": -10
+    },
+    {
+      "abr": "wormadam",
+      "category": "Animals",
+      "defname": "PW_Wormadam",
+      "price": -10
+    },
+    {
+      "abr": "wurmple",
+      "category": "Animals",
+      "defname": "PW_Wurmple",
+      "price": -10
+    },
+    {
+      "abr": "wynaut",
+      "category": "Animals",
+      "defname": "PW_Wynaut",
+      "price": -10
+    },
+    {
+      "abr": "xatu",
+      "category": "Animals",
+      "defname": "PW_Xatu",
+      "price": -10
+    },
+    {
+      "abr": "yanma",
+      "category": "Animals",
+      "defname": "PW_Yanma",
+      "price": -10
+    },
+    {
+      "abr": "yanmega",
+      "category": "Animals",
+      "defname": "PW_Yanmega",
+      "price": -10
+    },
+    {
+      "abr": "zangoose",
+      "category": "Animals",
+      "defname": "PW_Zangoose",
+      "price": -10
+    },
+    {
+      "abr": "zapdos",
+      "category": "Animals",
+      "defname": "PW_Zapdos",
+      "price": 50000
+    },
+    {
+      "abr": "zigzagoon",
+      "category": "Animals",
+      "defname": "PW_Zigzagoon",
+      "price": -10
+    },
+    {
+      "abr": "zubat",
+      "category": "Animals",
+      "defname": "PW_Zubat",
+      "price": -10
+    },
+    {
+      "abr": "autobroadcasterchargingstation",
       "category": "Production",
-      "defname": "MAG_ArchotechCheesePress",
-      "price": 6108
+      "defname": "VFE_Mechanoids_AutobroadcasterBase",
+      "price": 1650
+    },
+    {
+      "abr": "autocrane",
+      "category": "Production",
+      "defname": "VFEM_Autocrane",
+      "price": 4750
+    },
+    {
+      "abr": "auto-medicchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutoMedicBase",
+      "price": 1850
+    },
+    {
+      "abr": "autostriderchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutostriderBase",
+      "price": 1850
+    },
+    {
+      "abr": "liquidfreezer",
+      "category": "Furniture",
+      "defname": "VFE_MechanoidLiquidFreezer",
+      "price": 1250
+    },
+    {
+      "abr": "liquormixer",
+      "category": "Production",
+      "defname": "VFE_LiquorMixer",
+      "price": 4117
+    },
+    {
+      "abr": "mechanitepants",
+      "category": "Armor",
+      "defname": "VFE_MechanitePants",
+      "price": 600
+    },
+    {
+      "abr": "mechaniteunderarmor",
+      "category": "Armor",
+      "defname": "VFE_MechaniteUnderArmor",
+      "price": 683
+    },
+    {
+      "abr": "pyromechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_PyroBase",
+      "price": 2467
+    },
+    {
+      "abr": "raidermechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_RaiderBase",
+      "price": 2925
+    },
+    {
+      "abr": "smallinfernospewer",
+      "category": "Ranged weapons",
+      "defname": "VFE_Gun_InfernoSpewerSmall",
+      "price": 2333
+    },
+    {
+      "abr": "advancedtermite",
+      "category": "Animal",
+      "defname": "VFE_Mech_AdvTermite",
+      "price": 550
+    },
+    {
+      "abr": "termite",
+      "category": "Animal",
+      "defname": "VFE_Mech_Termite",
+      "price": 550
     },
     {
       "abr": "guestbed",
@@ -12007,5 +15835,5 @@
       "price": 5
     }
   ],
-  "total": 2001
+  "total": 2639
 }
