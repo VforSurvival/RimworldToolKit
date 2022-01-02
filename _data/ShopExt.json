@@ -3965,7 +3965,6 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+500 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Minimum comfortable temperature",
@@ -4011,7 +4010,6 @@
         "stats": [
           "+55.00 Mass",
           "+100% Flammability",
-          "+500 Base XP yield",
           "+$2500 Market value",
           "+5.40 Move speed",
           "+2.0C Minimum comfortable temperature",
@@ -4061,7 +4059,6 @@
         "stats": [
           "+55.00 Mass",
           "+70% Flammability",
-          "+500 Base XP yield",
           "+$1900 Market value",
           "+5.60 Move speed",
           "+130% Research speed",
@@ -4088,7 +4085,6 @@
         "stats": [
           "+60.00 Mass",
           "+100% Flammability",
-          "+500 Base XP yield",
           "+$2250 Market value",
           "+5.00 Move speed",
           "+6.0C Minimum comfortable temperature",
@@ -4125,7 +4121,6 @@
         "stats": [
           "+60.00 Mass",
           "+50% Flammability",
-          "+500 Base XP yield",
           "+$2600 Market value",
           "+5.00 Move speed",
           "+16.0C Minimum comfortable temperature",
