@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.1.1.0"
+    "version": "1.2.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -345,7 +345,7 @@
     "author": "PeteTimesSix",
     "name": "Simple sidearms",
     "steamId": "927155256",
-    "version": "1.4.5.0"
+    "version": "1.4.6.0"
   },
   {
     "author": "Inglix",
@@ -438,7 +438,7 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.1.2"
@@ -514,12 +514,6 @@
     "name": "Colony Manager",
     "steamId": "715565262",
     "version": "4.33.649"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
   },
   {
     "author": "avilmask",
@@ -624,6 +618,18 @@
     "version": "6.1.6.0"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - More Stuff",
+    "steamId": "2594931182",
+    "version": "1.1.7"
+  },
+  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
@@ -711,7 +717,7 @@
     "author": "Owlchemist",
     "name": "Simple Utilities: Ceiling",
     "steamId": "2571003732",
-    "version": "0.0.0.0"
+    "version": "1.3"
   },
   {
     "author": "Knight",
@@ -798,24 +804,6 @@
     "version": null
   },
   {
-    "author": "Biscuit",
-    "name": "Archotech+ (Continued)",
-    "steamId": "2270493883",
-    "version": "1.0.3.0"
-  },
-  {
-    "author": "taranchuk",
-    "name": "Archotech++",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrKociak",
-    "name": "More Archotech Garbage Reupload",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Jecrell and lbmaian",
     "name": "Doors Expanded",
     "steamId": "1316188771",
@@ -873,6 +861,30 @@
     "author": "iwishforducks",
     "name": "Ducks' Insane Skills",
     "steamId": "2450186578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Paint Shop",
+    "steamId": "1579516669",
+    "version": "1.1.7359"
+  },
+  {
+    "author": "busted_bunny",
+    "name": "Capture Them",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Magical Liopleurodon",
+    "name": "RimMagic (1.0-1.3) -- now with Ascendant Vampires, Resurrection and Healing!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
     "version": "1.0.0.0"
   }
 ]
