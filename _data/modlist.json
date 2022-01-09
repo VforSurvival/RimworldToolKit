@@ -444,7 +444,7 @@
     "version": "1.0.1.2"
   },
   {
-    "author": "Sarg Bjornson and  Chowder",
+    "author": "Sarg Bjornson,  Chowder and  Trahspanda",
     "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
@@ -690,6 +690,12 @@
     "version": null
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
+  },
+  {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
     "steamId": null,
@@ -876,15 +882,21 @@
     "version": null
   },
   {
-    "author": "Magical Liopleurodon",
-    "name": "RimMagic (1.0-1.3) -- now with Ascendant Vampires, Resurrection and Healing!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "merthsoft",
     "name": "Designator Shapes",
     "steamId": "1235181370",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.4.0"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
   }
 ]
