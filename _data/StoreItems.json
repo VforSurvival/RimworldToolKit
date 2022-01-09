@@ -11220,6 +11220,2766 @@
 		"category": "Natural",
 		"defname": "VME_FleshcraftedToe"
 	},
+	{
+		"abr": "ambusherskill:ambush",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_Ambush"
+	},
+	{
+		"abr": "ambusherskill:poisontrap",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SkillOf_AmbusherPoisonTrap"
+	},
+	{
+		"abr": "ambusherskill:proximitycharge",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SkillOf_ProximityCharge"
+	},
+	{
+		"abr": "ambusher/minerskill:thebigone",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_TheBigOne"
+	},
+	{
+		"abr": "ambusher'sbelt",
+		"price": 2667,
+		"category": "Utility",
+		"defname": "KeepersBelt"
+	},
+	{
+		"abr": "amuletofclarity",
+		"price": 4333,
+		"category": "Magic artifacts",
+		"defname": "TM_AmuletOfClarity"
+	},
+	{
+		"abr": "amuletofforce",
+		"price": 4333,
+		"category": "Magic artifacts",
+		"defname": "TM_AmuletOfForce"
+	},
+	{
+		"abr": "amuletofperception",
+		"price": 3667,
+		"category": "Magic artifacts",
+		"defname": "TM_AmuletOfPerception"
+	},
+	{
+		"abr": "amuletoftranquility",
+		"price": 3667,
+		"category": "Magic artifacts",
+		"defname": "TM_AmuletOfTranquility"
+	},
+	{
+		"abr": "ancientmail",
+		"price": 2742,
+		"category": "Magic apparel",
+		"defname": "AncientMail"
+	},
+	{
+		"abr": "apothecaryskill:refinedmanapotion",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_RefinedManaPotion"
+	},
+	{
+		"abr": "apothecary/blossombladerskill:beltpouch",
+		"price": 1000,
+		"category": "Scrolls",
+		"defname": "SkillOf_BeltPouch"
+	},
+	{
+		"abr": "arbormancerspell:bramblepatch",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SpellOf_BramblePatch"
+	},
+	{
+		"abr": "arcalleum",
+		"price": 22,
+		"category": "Raw resources",
+		"defname": "TM_Arcalleum"
+	},
+	{
+		"abr": "arcanegemofacceleration",
+		"price": 650,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_coolDown"
+	},
+	{
+		"abr": "arcanegemofconservation",
+		"price": 650,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpCost"
+	},
+	{
+		"abr": "arcanegemofforce",
+		"price": 650,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneDmg"
+	},
+	{
+		"abr": "arcanegemofholding",
+		"price": 650,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_maxMP"
+	},
+	{
+		"abr": "arcanegemoflearning",
+		"price": 650,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_xpGain"
+	},
+	{
+		"abr": "arcanegemofregeneration",
+		"price": 650,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpRegenRate"
+	},
+	{
+		"abr": "arcanegemofresistance",
+		"price": 650,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneRes"
+	},
+	{
+		"abr": "arcanegemofwonder",
+		"price": 4417,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_wonder"
+	},
+	{
+		"abr": "arcanehood",
+		"price": 817,
+		"category": "Magic apparel",
+		"defname": "ArcaneHood"
+	},
+	{
+		"abr": "arcanescript:???",
+		"price": 2500,
+		"category": "Skill books",
+		"defname": "BookOfQuestion"
+	},
+	{
+		"abr": "arcanespell:arcanewall",
+		"price": 2083,
+		"category": "Scrolls",
+		"defname": "SpellOf_ArcaneWallC"
+	},
+	{
+		"abr": "arcanespell:clearmind",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_ClearMindC"
+	},
+	{
+		"abr": "arcanespell:disarm",
+		"price": 2083,
+		"category": "Scrolls",
+		"defname": "SpellOf_Disarm"
+	},
+	{
+		"abr": "arcanespell:forcemissile",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_ForceMissile"
+	},
+	{
+		"abr": "arcanespell:gateway",
+		"price": 4767,
+		"category": "Scrolls",
+		"defname": "SpellOf_FoldReality"
+	},
+	{
+		"abr": "arcanetome:arbormancer",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfArbormancer"
+	},
+	{
+		"abr": "arcanetome:bard",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfBard"
+	},
+	{
+		"abr": "arcanetome:blackmage",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfBlackMage"
+	},
+	{
+		"abr": "arcanetome:brightmage",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfTheSun"
+	},
+	{
+		"abr": "arcanetome:chaosmage",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfChaos"
+	},
+	{
+		"abr": "arcanetome:chronomancer",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfChronomancer"
+	},
+	{
+		"abr": "arcanetome:cleric",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfCleric"
+	},
+	{
+		"abr": "arcanetome:demonology",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfDemons"
+	},
+	{
+		"abr": "arcanetome:duskbringer",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfDuskbringer"
+	},
+	{
+		"abr": "arcanetome:earth",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfEarth"
+	},
+	{
+		"abr": "arcanetome:elementalgunner",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfElementalGunner"
+	},
+	{
+		"abr": "arcanetome:enchanter",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfEnchanter"
+	},
+	{
+		"abr": "arcanetome:fire",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfInnerFire"
+	},
+	{
+		"abr": "arcanetome:golemancer",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfGolemancy"
+	},
+	{
+		"abr": "arcanetome:guardian",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfGuardian"
+	},
+	{
+		"abr": "arcanetome:harbinger",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfHarbinger"
+	},
+	{
+		"abr": "arcanetome:hemomancy",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfHemomancy"
+	},
+	{
+		"abr": "arcanetome:ice",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfHeartOfFrost"
+	},
+	{
+		"abr": "arcanetome:keeper",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfKeeper"
+	},
+	{
+		"abr": "arcanetome:lightning",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfStormBorn"
+	},
+	{
+		"abr": "arcanetome:nature",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfDruid"
+	},
+	{
+		"abr": "arcanetome:necromancer",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfNecromancer"
+	},
+	{
+		"abr": "arcanetome:ninja",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfNinja"
+	},
+	{
+		"abr": "arcanetome:oracle",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfOracle"
+	},
+	{
+		"abr": "arcanetome:power",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfArcanist"
+	},
+	{
+		"abr": "arcanetome:pridestalker",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfPridestalker"
+	},
+	{
+		"abr": "arcanetome:priest",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfPriest"
+	},
+	{
+		"abr": "arcanetome:redmage",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfRedMage"
+	},
+	{
+		"abr": "arcanetome:runeknight",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfRuneKnight"
+	},
+	{
+		"abr": "arcanetome:scholar",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfScholar"
+	},
+	{
+		"abr": "arcanetome:shadow",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfShadow"
+	},
+	{
+		"abr": "arcanetome:shadowbringer",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfShadowbringer"
+	},
+	{
+		"abr": "arcanetome:shaman",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfShamanism"
+	},
+	{
+		"abr": "arcanetome:summoning",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfSummoner"
+	},
+	{
+		"abr": "arcanetome:technomancy",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfMagitech"
+	},
+	{
+		"abr": "arcanetome:troubadour",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfTroubadour"
+	},
+	{
+		"abr": "arcanetome:warden",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfWarden"
+	},
+	{
+		"abr": "arcanetome:windmage",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfWindMage"
+	},
+	{
+		"abr": "archmage'sreceipt",
+		"price": 4667,
+		"category": "Utility",
+		"defname": "TM_ArchmagesReceipt"
+	},
+	{
+		"abr": "armorofthevaliant",
+		"price": 2750,
+		"category": "Magic apparel",
+		"defname": "RoyalArmor"
+	},
+	{
+		"abr": "autobroadcasterchargingstation",
+		"price": 1650,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutobroadcasterBase"
+	},
+	{
+		"abr": "autocrane",
+		"price": 4750,
+		"category": "Production",
+		"defname": "VFEM_Autocrane"
+	},
+	{
+		"abr": "auto-medicchargingstation",
+		"price": 1850,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutoMedicBase"
+	},
+	{
+		"abr": "autostriderchargingstation",
+		"price": 1850,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutostriderBase"
+	},
+	{
+		"abr": "bardspell:battlehymn",
+		"price": 2750,
+		"category": "Scrolls",
+		"defname": "SpellOf_BattleHymn"
+	},
+	{
+		"abr": "bardspell:discord",
+		"price": 1267,
+		"category": "Scrolls",
+		"defname": "SpellOf_Discord"
+	},
+	{
+		"abr": "beltofextravagance",
+		"price": 2667,
+		"category": "Utility",
+		"defname": "BeltOfExtravagance"
+	},
+	{
+		"abr": "beltofthewilds",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "BeltOfTheWilds"
+	},
+	{
+		"abr": "blackmagespell:aetherialmanipulation",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SpellOf_AetherialManipulation"
+	},
+	{
+		"abr": "blackmagespell:despair",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_Despair"
+	},
+	{
+		"abr": "blackmagespell:manaward",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SpellOf_Manaward"
+	},
+	{
+		"abr": "blackmagespell:sharpcast",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Sharpcast"
+	},
+	{
+		"abr": "blackmagespell:xenoglossy",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Xenoglossy"
+	},
+	{
+		"abr": "bladedancerskill:blade'sedge",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_BladesEdge"
+	},
+	{
+		"abr": "bloodmagespell:bloodmoon",
+		"price": 3750,
+		"category": "Scrolls",
+		"defname": "SpellOf_BloodMoon"
+	},
+	{
+		"abr": "blossombladerskill:bladestorm",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Bladestorm"
+	},
+	{
+		"abr": "blossombladerskill:fallenleaf",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_FallenLeaf"
+	},
+	{
+		"abr": "bookofrecipes:chef",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfChef"
+	},
+	{
+		"abr": "bowskill:cripplingshot",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_CripplingShot"
+	},
+	{
+		"abr": "bowskill:grapplearrow",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_GrappleArrow"
+	},
+	{
+		"abr": "bowskill:marksman'svow",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_MarksmansVow"
+	},
+	{
+		"abr": "bowskill:quickshot",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_QuickShot"
+	},
+	{
+		"abr": "boxofdice:gambler",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfGambler"
+	},
+	{
+		"abr": "bracersofdefense",
+		"price": 1483,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_BracersOfDefense"
+	},
+	{
+		"abr": "bracersofdeflection",
+		"price": 1558,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_BracersOfDeflection"
+	},
+	{
+		"abr": "bracersofthepacifist",
+		"price": 6375,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_BracersOfThePacifist"
+	},
+	{
+		"abr": "brightmagespell:spiritoflight",
+		"price": 3767,
+		"category": "Scrolls",
+		"defname": "SpellOf_SpiritOfLight"
+	},
+	{
+		"abr": "chempunkskill:juggernaut",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_Juggernaut"
+	},
+	{
+		"abr": "chempunkskill:noxiousblast",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_NoxiousBlast"
+	},
+	{
+		"abr": "chempunkskill:quickvent",
+		"price": 1583,
+		"category": "Scrolls",
+		"defname": "SkillOf_QuickVent"
+	},
+	{
+		"abr": "chempunkskill:regulator",
+		"price": 1583,
+		"category": "Scrolls",
+		"defname": "SkillOf_Regulator"
+	},
+	{
+		"abr": "child'steddybear",
+		"price": 2333,
+		"category": "Utility",
+		"defname": "ChildsTeddybear"
+	},
+	{
+		"abr": "chromamagespell:chromaticflash",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SpellOf_ChromaticFlash"
+	},
+	{
+		"abr": "chronomancerspell:recall",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Recall"
+	},
+	{
+		"abr": "chronomancerspell:unstablesingularity",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_UnstableSingularity"
+	},
+	{
+		"abr": "cloakofsupremacy",
+		"price": 4233,
+		"category": "Magic apparel",
+		"defname": "DemonLordCloak"
+	},
+	{
+		"abr": "combataugments:chempunk",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfChempunk"
+	},
+	{
+		"abr": "combataugments:railbreaker",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfRailbreaker"
+	},
+	{
+		"abr": "combatform:blossomblader",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfBlossomBlader"
+	},
+	{
+		"abr": "combatform:deadeye",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfDeadeye"
+	},
+	{
+		"abr": "combatform:dragoon",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfDragoon"
+	},
+	{
+		"abr": "combatform:faceless",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfFaceless"
+	},
+	{
+		"abr": "combatform:gladiator",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfGladiator"
+	},
+	{
+		"abr": "combatform:gunbreaker",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfGunbreaker"
+	},
+	{
+		"abr": "combatform:gunner",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfGunner"
+	},
+	{
+		"abr": "combatform:gunslinger",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfGunslinger"
+	},
+	{
+		"abr": "combatform:holosmith",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfHolosmith"
+	},
+	{
+		"abr": "combatform:mechhunter",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfMechHunter"
+	},
+	{
+		"abr": "combatform:miner",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfMiner"
+	},
+	{
+		"abr": "combatform:mystic",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfMystic"
+	},
+	{
+		"abr": "combatform:nomad",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfNomad"
+	},
+	{
+		"abr": "combatform:scrapper",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfScrapper"
+	},
+	{
+		"abr": "combatform:spellbreaker",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfSpellbreaker"
+	},
+	{
+		"abr": "combatform:spellthief",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfSpellthief"
+	},
+	{
+		"abr": "combatform:striker",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfStriker"
+	},
+	{
+		"abr": "combatform:supportspecialist",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfSupportSpecialist"
+	},
+	{
+		"abr": "combatform:thunderblessed",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfThunderblessed"
+	},
+	{
+		"abr": "combatform:warrior",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfWarrior"
+	},
+	{
+		"abr": "combatinspiration:gadgeteer",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfGadgeteer"
+	},
+	{
+		"abr": "combatpower:psionic",
+		"price": 4750,
+		"category": "Skill books",
+		"defname": "BookOfPsionic"
+	},
+	{
+		"abr": "combatstyle:ambusher",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfAmbusher"
+	},
+	{
+		"abr": "combatstyle:apothecary",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfApothecary"
+	},
+	{
+		"abr": "combatstyle:berserker",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfBerserker"
+	},
+	{
+		"abr": "combatstyle:bladedancer",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfBladedancer"
+	},
+	{
+		"abr": "combatstyle:bombardier",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfBombardier"
+	},
+	{
+		"abr": "combatstyle:chainwarden",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfChainwarden"
+	},
+	{
+		"abr": "combatstyle:commander",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfCommander"
+	},
+	{
+		"abr": "combatstyle:deathknight",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfDeathKnight"
+	},
+	{
+		"abr": "combatstyle:hawkeye",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfHawkeye"
+	},
+	{
+		"abr": "combatstyle:monk",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfMonk"
+	},
+	{
+		"abr": "combatstyle:ranger",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfRanger"
+	},
+	{
+		"abr": "combatstyle:reaper",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfReaper"
+	},
+	{
+		"abr": "combatstyle:saboteur",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfSaboteur"
+	},
+	{
+		"abr": "combatstyle:samurai",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfSamurai"
+	},
+	{
+		"abr": "combatstyle:scion",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfScion"
+	},
+	{
+		"abr": "combatstyle:sniper",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfSniper"
+	},
+	{
+		"abr": "commanderskill:diplomaticnegotiations",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_DiplomaticNegotiationsC"
+	},
+	{
+		"abr": "commanderskill:fireatwill",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_FireAtWillC"
+	},
+	{
+		"abr": "commanderskill:provoke",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_ProvokeC"
+	},
+	{
+		"abr": "deadeyeskill:grapplinghook",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_GrapplingHookD"
+	},
+	{
+		"abr": "deadeyeskill:oneinthechamber",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_OneInTheChamber"
+	},
+	{
+		"abr": "deadeye/e-gunnerspell:bullettime",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SpellOf_BulletTime"
+	},
+	{
+		"abr": "deathknightskill:abyssaldrain",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_AbyssalDrain"
+	},
+	{
+		"abr": "deathknightskill:darkgrasp",
+		"price": 1417,
+		"category": "Scrolls",
+		"defname": "SkillOf_DarkGrasp"
+	},
+	{
+		"abr": "deathknightskill:openingritual",
+		"price": 1417,
+		"category": "Scrolls",
+		"defname": "SkillOf_OpeningRitual"
+	},
+	{
+		"abr": "deathknightskill:theblackestnight",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_TheBlackestNight"
+	},
+	{
+		"abr": "demonflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_DemonR"
+	},
+	{
+		"abr": "demonflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_LesserDemonR"
+	},
+	{
+		"abr": "demonhide",
+		"price": 27,
+		"category": "Leathers",
+		"defname": "TM_Demonhide"
+	},
+	{
+		"abr": "demonkinspell:eldritchbarrage",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SpellOf_EldritchBarrage"
+	},
+	{
+		"abr": "demon'sfang",
+		"price": 6150,
+		"category": "Melee",
+		"defname": "TM_DemonFang"
+	},
+	{
+		"abr": "demonscale",
+		"price": 30,
+		"category": "Raw resources",
+		"defname": "TM_Demonscale"
+	},
+	{
+		"abr": "destructionscroll:skyfall",
+		"price": 3000,
+		"category": "Utility",
+		"defname": "TM_DestructionSkyfall"
+	},
+	{
+		"abr": "direwolf",
+		"price": 3667,
+		"category": "Animals",
+		"defname": "TM_Dire_WolfR"
+	},
+	{
+		"abr": "divinetome:paladin",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfValiant"
+	},
+	{
+		"abr": "dragoonskill:bloodofthedragon",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_BloodOfTheDragon"
+	},
+	{
+		"abr": "dragoonskill:elusivejump",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_ElusiveJump"
+	},
+	{
+		"abr": "dragoonskill:stardiver",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_Stardiver"
+	},
+	{
+		"abr": "dreamcatcherbuckskin",
+		"price": 4242,
+		"category": "Magic apparel",
+		"defname": "TM_DreamcatcherBuckskin"
+	},
+	{
+		"abr": "dreamcatchercoronet",
+		"price": 3008,
+		"category": "Magic apparel",
+		"defname": "TM_DreamcatcherCoronet"
+	},
+	{
+		"abr": "druidspell:barkskin",
+		"price": 1083,
+		"category": "Scrolls",
+		"defname": "SpellOf_BarkskinC"
+	},
+	{
+		"abr": "druidspell:briarpatch",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_BriarPatch"
+	},
+	{
+		"abr": "druidspell:fertilelands",
+		"price": 1233,
+		"category": "Scrolls",
+		"defname": "SpellOf_FertileLands"
+	},
+	{
+		"abr": "druidspell:regrowlimb",
+		"price": 3100,
+		"category": "Scrolls",
+		"defname": "SpellOf_RegrowLimb"
+	},
+	{
+		"abr": "druidspell:tailwind",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SpellOf_TailwindC"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_LesserEarth_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_Earth_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterEarth_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_LesserFire_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_Fire_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterFire_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_LesserWater_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_Water_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterWater_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_LesserWind_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_Wind_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterWind_ElementalR"
+	},
+	{
+		"abr": "elephantbow",
+		"price": 2083,
+		"category": "Ranged",
+		"defname": "TM_ElephantBow"
+	},
+	{
+		"abr": "elephantspear",
+		"price": 1333,
+		"category": "Melee",
+		"defname": "TM_ElephantSpear"
+	},
+	{
+		"abr": "elephanttusk",
+		"price": 200,
+		"category": "Melee",
+		"defname": "TM_ElephantTusk"
+	},
+	{
+		"abr": "enchanterspell:blankmind",
+		"price": 1367,
+		"category": "Scrolls",
+		"defname": "SpellOf_BlankMind"
+	},
+	{
+		"abr": "enchanterspell:renew",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_Renew"
+	},
+	{
+		"abr": "enchanterspell:shapeshift",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Shapeshift"
+	},
+	{
+		"abr": "essenceofmagic",
+		"price": 833,
+		"category": "Magic artifacts",
+		"defname": "TM_MagicArtifact_MagicEssence"
+	},
+	{
+		"abr": "essenceofmight",
+		"price": 833,
+		"category": "Magic artifacts",
+		"defname": "TM_MagicArtifact_MightEssence"
+	},
+	{
+		"abr": "fighterskill:burningfury",
+		"price": 1583,
+		"category": "Scrolls",
+		"defname": "SkillOf_BurningFury"
+	},
+	{
+		"abr": "fighterskill:evasiveleap",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_EvasiveLeap"
+	},
+	{
+		"abr": "fighterskill:explosivesatchel",
+		"price": 1000,
+		"category": "Scrolls",
+		"defname": "SkillOf_BackupGrenade"
+	},
+	{
+		"abr": "fighterskill:fightersfocus",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SkillOf_FightersFocus"
+	},
+	{
+		"abr": "fighterskill:gearrepair",
+		"price": 1167,
+		"category": "Scrolls",
+		"defname": "SkillOf_GearRepair"
+	},
+	{
+		"abr": "fighterskill:glare",
+		"price": 1000,
+		"category": "Scrolls",
+		"defname": "SkillOf_Glare"
+	},
+	{
+		"abr": "fighterskill:heavyblow",
+		"price": 1250,
+		"category": "Scrolls",
+		"defname": "SkillOf_HeavyBlow"
+	},
+	{
+		"abr": "fighterskill:innerhealing",
+		"price": 833,
+		"category": "Scrolls",
+		"defname": "SkillOf_InnerHealing"
+	},
+	{
+		"abr": "fighterskill:legion",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Legion"
+	},
+	{
+		"abr": "fighterskill:lightningsatchel",
+		"price": 1000,
+		"category": "Scrolls",
+		"defname": "SkillOf_EMPBomb"
+	},
+	{
+		"abr": "fighterskill:martialtraining",
+		"price": 208,
+		"category": "Scrolls",
+		"defname": "SkillOf_MartialTraining"
+	},
+	{
+		"abr": "fighterskill:pommelstrike",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_PommelStrike"
+	},
+	{
+		"abr": "fighterskill:sprint",
+		"price": 833,
+		"category": "Scrolls",
+		"defname": "SkillOf_Sprint"
+	},
+	{
+		"abr": "fighterskill:strongback",
+		"price": 1000,
+		"category": "Scrolls",
+		"defname": "SkillOf_StrongBack"
+	},
+	{
+		"abr": "fighterskill:taunt",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_Taunt"
+	},
+	{
+		"abr": "fighterskill:tempeststrike",
+		"price": 1000,
+		"category": "Scrolls",
+		"defname": "SkillOf_TempestStrike"
+	},
+	{
+		"abr": "fighterskill:thickskin",
+		"price": 667,
+		"category": "Scrolls",
+		"defname": "SkillOf_ThickSkin"
+	},
+	{
+		"abr": "fighterskill:throwingknife",
+		"price": 1583,
+		"category": "Scrolls",
+		"defname": "SkillOf_ThrowingKnife"
+	},
+	{
+		"abr": "fighterskill:vengeance",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Vengeance"
+	},
+	{
+		"abr": "firespell:cauterizewound",
+		"price": 533,
+		"category": "Scrolls",
+		"defname": "SpellOf_CauterizeWound"
+	},
+	{
+		"abr": "firespell:dryground",
+		"price": 900,
+		"category": "Scrolls",
+		"defname": "SpellOf_DryGround"
+	},
+	{
+		"abr": "firespell:firestorm",
+		"price": 3583,
+		"category": "Scrolls",
+		"defname": "SpellOf_Firestorm"
+	},
+	{
+		"abr": "firespell:incinerate",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_Incinerate"
+	},
+	{
+		"abr": "fleshgolem",
+		"price": 4500,
+		"category": "Animal",
+		"defname": "TM_FleshGolem"
+	},
+	{
+		"abr": "gadgeteer/minerskill:oldheadlight",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_OldHeadlight"
+	},
+	{
+		"abr": "gamblerskill:deckblast",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_DeckBlast"
+	},
+	{
+		"abr": "gamblerskill:royalroad",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_RoyalRoad"
+	},
+	{
+		"abr": "gamblerspell:destiny",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SpellOf_Destiny"
+	},
+	{
+		"abr": "gamblerspell:sleevedraw",
+		"price": 3667,
+		"category": "Scrolls",
+		"defname": "SpellOf_SleeveDraw"
+	},
+	{
+		"abr": "gemofarcaneinsight",
+		"price": 5000,
+		"category": "Magic artifacts",
+		"defname": "GemstoneOfInsight_Magic"
+	},
+	{
+		"abr": "gemofphysicalinsight",
+		"price": 4000,
+		"category": "Magic artifacts",
+		"defname": "GemstoneOfInsight_Might"
+	},
+	{
+		"abr": "geomancerspell:meteor",
+		"price": 2750,
+		"category": "Scrolls",
+		"defname": "SpellOf_Meteor"
+	},
+	{
+		"abr": "giantskeletonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_GiantSkeletonR"
+	},
+	{
+		"abr": "gladiatorskill:grandchallenge",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_GrandChallenge"
+	},
+	{
+		"abr": "gladiatorskill:shieldstance",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_ShieldStance"
+	},
+	{
+		"abr": "golemancerspell:awarenessbrand",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandAwareness"
+	},
+	{
+		"abr": "golemancerspell:emotionbrand",
+		"price": 1567,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandEmotion"
+	},
+	{
+		"abr": "golemancerspell:fitnessbrand",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandFitness"
+	},
+	{
+		"abr": "golemancerspell:livingwall",
+		"price": 3667,
+		"category": "Scrolls",
+		"defname": "SpellOf_LivingWall"
+	},
+	{
+		"abr": "golemancerspell:protectionbrand",
+		"price": 1567,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandProtection"
+	},
+	{
+		"abr": "golemancerspell:siphonbrand",
+		"price": 1567,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandSiphon"
+	},
+	{
+		"abr": "golemancerspell:vitalitybrand",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandVitality"
+	},
+	{
+		"abr": "guardianskill:confiteor",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_Confiteor"
+	},
+	{
+		"abr": "guardianskill:requiescat",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Requiescat"
+	},
+	{
+		"abr": "guardianskill:temperedwill",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_TemperedWill"
+	},
+	{
+		"abr": "guardianspell:circleofscorn",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_CircleOfScorn"
+	},
+	{
+		"abr": "gunbreakerskill:aethercall",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_RoughDivide"
+	},
+	{
+		"abr": "gunbreakerskill:continuation",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_Continuation"
+	},
+	{
+		"abr": "gunbreakerskill:superbolide",
+		"price": 4333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Superbolide"
+	},
+	{
+		"abr": "gunnerskill:barrelstabilizer",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_BarrelStabilizer"
+	},
+	{
+		"abr": "gunnerskill:cleanreload",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_CleanReload"
+	},
+	{
+		"abr": "gunnerskill:flamesplitter",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_FlameSplitter"
+	},
+	{
+		"abr": "gunnerskill:headgraze",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_HeadGraze"
+	},
+	{
+		"abr": "gunnerskill:naniteshot",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_NaniteShot"
+	},
+	{
+		"abr": "gunslingerskill:breachfire",
+		"price": 2583,
+		"category": "Scrolls",
+		"defname": "SkillOf_Breachfire"
+	},
+	{
+		"abr": "gunslingerskill:breakstep",
+		"price": 2583,
+		"category": "Scrolls",
+		"defname": "SkillOf_Breakstep"
+	},
+	{
+		"abr": "gunslingerskill:coverfire",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SkillOf_CoverFire"
+	},
+	{
+		"abr": "gunslingerskill:nanoseeker",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_Nanoseeker"
+	},
+	{
+		"abr": "gunslinger/sniperskill:gunflame",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Gunflame"
+	},
+	{
+		"abr": "harbingerspell:sacrificialpact",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_SacrificialPact"
+	},
+	{
+		"abr": "helmofthevaliant",
+		"price": 975,
+		"category": "Magic apparel",
+		"defname": "RoyalHelm"
+	},
+	{
+		"abr": "hippocraticoath:medic",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfMedic"
+	},
+	{
+		"abr": "hollowgolem",
+		"price": 9167,
+		"category": "Animal",
+		"defname": "TM_HollowGolem"
+	},
+	{
+		"abr": "holosmithskill:coldopen",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_ColdOpen"
+	},
+	{
+		"abr": "holosmithskill:coolantblast",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_CoolantBlast"
+	},
+	{
+		"abr": "holosmithskill:photonwall",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_PhotonWall"
+	},
+	{
+		"abr": "holosmithskill:primelightcannon",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SkillOf_PrimeLightCannon"
+	},
+	{
+		"abr": "holycasterspell:shieldother",
+		"price": 1267,
+		"category": "Scrolls",
+		"defname": "SpellOf_ShieldOther"
+	},
+	{
+		"abr": "hoodofmadness",
+		"price": 1008,
+		"category": "Magic apparel",
+		"defname": "HoodOfMadness"
+	},
+	{
+		"abr": "icespell:blizzard",
+		"price": 3583,
+		"category": "Scrolls",
+		"defname": "SpellOf_Blizzard"
+	},
+	{
+		"abr": "icespell:frostarmor",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_FrostArmor"
+	},
+	{
+		"abr": "icespell:moisturizeground",
+		"price": 900,
+		"category": "Scrolls",
+		"defname": "SpellOf_WetGround"
+	},
+	{
+		"abr": "lemonade",
+		"price": 5,
+		"category": "Drugs",
+		"defname": "VBE_Lemonade"
+	},
+	{
+		"abr": "lightningspell:chargebattery",
+		"price": 833,
+		"category": "Scrolls",
+		"defname": "SpellOf_ChargeBattery"
+	},
+	{
+		"abr": "lightningspell:eyeofthestorm",
+		"price": 3583,
+		"category": "Scrolls",
+		"defname": "SpellOf_EyeOfTheStorm"
+	},
+	{
+		"abr": "lightningspell:overcharge",
+		"price": 4000,
+		"category": "Scrolls",
+		"defname": "SpellOf_Overcharge"
+	},
+	{
+		"abr": "liquidfreezer",
+		"price": 1250,
+		"category": "Furniture",
+		"defname": "VFE_MechanoidLiquidFreezer"
+	},
+	{
+		"abr": "liquormixer",
+		"price": 4117,
+		"category": "Production",
+		"defname": "VFE_LiquorMixer"
+	},
+	{
+		"abr": "magerobe",
+		"price": 3767,
+		"category": "Magic apparel",
+		"defname": "DarkRobe"
+	},
+	{
+		"abr": "magespell:arcanebolt",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_ArcaneBolt"
+	},
+	{
+		"abr": "magespell:blink",
+		"price": 833,
+		"category": "Scrolls",
+		"defname": "SpellOf_Blink"
+	},
+	{
+		"abr": "magespell:blur",
+		"price": 967,
+		"category": "Scrolls",
+		"defname": "SpellOf_Blur"
+	},
+	{
+		"abr": "magespell:dirtdevil",
+		"price": 967,
+		"category": "Scrolls",
+		"defname": "SpellOf_DirtDevil"
+	},
+	{
+		"abr": "magespell:effulgence",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Effulgence"
+	},
+	{
+		"abr": "magespell:emp",
+		"price": 967,
+		"category": "Scrolls",
+		"defname": "SpellOf_EMP"
+	},
+	{
+		"abr": "magespell:erase",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Erase"
+	},
+	{
+		"abr": "magespell:extinguish",
+		"price": 567,
+		"category": "Scrolls",
+		"defname": "SpellOf_Extinguish"
+	},
+	{
+		"abr": "magespell:heal",
+		"price": 767,
+		"category": "Scrolls",
+		"defname": "SpellOf_Heal"
+	},
+	{
+		"abr": "magespell:ignite",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_Ignite"
+	},
+	{
+		"abr": "magespell:invisibility",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SpellOf_Invisibility"
+	},
+	{
+		"abr": "magespell:lightningtrap",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SpellOf_LightningTrap"
+	},
+	{
+		"abr": "magespell:magelight",
+		"price": 633,
+		"category": "Scrolls",
+		"defname": "SpellOf_MageLight"
+	},
+	{
+		"abr": "magespell:magiccooler",
+		"price": 633,
+		"category": "Scrolls",
+		"defname": "SpellOf_Cooler"
+	},
+	{
+		"abr": "magespell:magicheater",
+		"price": 633,
+		"category": "Scrolls",
+		"defname": "SpellOf_Heater"
+	},
+	{
+		"abr": "magespell:magictraining",
+		"price": 208,
+		"category": "Scrolls",
+		"defname": "SpellOf_MagicTraining"
+	},
+	{
+		"abr": "magespell:manashield",
+		"price": 1600,
+		"category": "Scrolls",
+		"defname": "SpellOf_ManaShield"
+	},
+	{
+		"abr": "magespell:powernode",
+		"price": 1017,
+		"category": "Scrolls",
+		"defname": "SpellOf_PowerNode"
+	},
+	{
+		"abr": "magespell:rain",
+		"price": 433,
+		"category": "Scrolls",
+		"defname": "SpellOf_Rain"
+	},
+	{
+		"abr": "magespell:siphonmana",
+		"price": 1267,
+		"category": "Scrolls",
+		"defname": "SpellOf_SiphonMana"
+	},
+	{
+		"abr": "magespell:smokecloud",
+		"price": 700,
+		"category": "Scrolls",
+		"defname": "SpellOf_SmokeCloud"
+	},
+	{
+		"abr": "magespell:snapfreeze",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_SnapFreeze"
+	},
+	{
+		"abr": "magespell:spellmending",
+		"price": 1792,
+		"category": "Scrolls",
+		"defname": "SpellOf_SpellMending"
+	},
+	{
+		"abr": "magespell:summonminion",
+		"price": 1750,
+		"category": "Scrolls",
+		"defname": "SpellOf_SummonMinion"
+	},
+	{
+		"abr": "magespell:sunlight",
+		"price": 1117,
+		"category": "Scrolls",
+		"defname": "SpellOf_Sunlight"
+	},
+	{
+		"abr": "magespell:teleport",
+		"price": 2200,
+		"category": "Scrolls",
+		"defname": "SpellOf_Teleport"
+	},
+	{
+		"abr": "magespell:transfermana",
+		"price": 1267,
+		"category": "Scrolls",
+		"defname": "SpellOf_TransferMana"
+	},
+	{
+		"abr": "majorarcanegemofacceleration",
+		"price": 1592,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_coolDown_major"
+	},
+	{
+		"abr": "majorarcanegemofconservation",
+		"price": 1592,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpCost_major"
+	},
+	{
+		"abr": "majorarcanegemofforce",
+		"price": 1592,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneDmg_major"
+	},
+	{
+		"abr": "majorarcanegemofholding",
+		"price": 1592,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_maxMP_major"
+	},
+	{
+		"abr": "majorarcanegemoflearning",
+		"price": 1592,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_xpGain_major"
+	},
+	{
+		"abr": "majorarcanegemofregeneration",
+		"price": 1592,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpRegenRate_major"
+	},
+	{
+		"abr": "majorarcanegemofresistance",
+		"price": 1592,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneRes_major"
+	},
+	{
+		"abr": "majorarcanegemofwonder",
+		"price": 10917,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_wonder_major"
+	},
+	{
+		"abr": "manapotion",
+		"price": 150,
+		"category": "Drugs",
+		"defname": "ManaPotion"
+	},
+	{
+		"abr": "manaweave",
+		"price": 15,
+		"category": "Textiles",
+		"defname": "TM_Manaweave"
+	},
+	{
+		"abr": "mashedpomana",
+		"price": 0,
+		"category": "Vegetarian",
+		"defname": "TM_RawPomanaMash"
+	},
+	{
+		"abr": "meat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_SpiritWolfR"
+	},
+	{
+		"abr": "mechhunterskill:blackpowder",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_Blackpowder"
+	},
+	{
+		"abr": "mechhunterskill:finalsalvo",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_FinalSalvo"
+	},
+	{
+		"abr": "mechhunterskill:orbitalemp",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_OrbitalEMP"
+	},
+	{
+		"abr": "mecha-golem",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "TM_MechaGolem"
+	},
+	{
+		"abr": "mechanitepants",
+		"price": 600,
+		"category": "Armor",
+		"defname": "VFE_MechanitePants"
+	},
+	{
+		"abr": "mechaniteunderarmor",
+		"price": 683,
+		"category": "Armor",
+		"defname": "VFE_MechaniteUnderArmor"
+	},
+	{
+		"abr": "minerskill:collapsingcolumn",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_CollapsingColumn"
+	},
+	{
+		"abr": "minerskill:runeoflightning",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_RuneOfLightning"
+	},
+	{
+		"abr": "minerskill:truthofmountains",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SkillOf_TruthOfMountains"
+	},
+	{
+		"abr": "minorarcanegemofacceleration",
+		"price": 283,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_coolDown_minor"
+	},
+	{
+		"abr": "minorarcanegemofconservation",
+		"price": 283,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpCost_minor"
+	},
+	{
+		"abr": "minorarcanegemofforce",
+		"price": 283,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneDmg_minor"
+	},
+	{
+		"abr": "minorarcanegemofholding",
+		"price": 283,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_maxMP_minor"
+	},
+	{
+		"abr": "minorarcanegemoflearning",
+		"price": 283,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_xpGain_minor"
+	},
+	{
+		"abr": "minorarcanegemofregeneration",
+		"price": 283,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpRegenRate_minor"
+	},
+	{
+		"abr": "minorarcanegemofresistance",
+		"price": 283,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneRes_minor"
+	},
+	{
+		"abr": "minorarcanegemofwonder",
+		"price": 1983,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_wonder_minor"
+	},
+	{
+		"abr": "monkskill:serenity",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_SerenityC"
+	},
+	{
+		"abr": "monkskill:touchofdeath",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_TouchOfDeathC"
+	},
+	{
+		"abr": "monkskill:whistlingwind",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_WhistlingWind"
+	},
+	{
+		"abr": "mysterymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_MinionR"
+	},
+	{
+		"abr": "mysterymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterMinionR"
+	},
+	{
+		"abr": "mysticskill:ofudastorm",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_OfudaStorm"
+	},
+	{
+		"abr": "necromancerspell:lichform",
+		"price": 4292,
+		"category": "Scrolls",
+		"defname": "SpellOf_LichForm"
+	},
+	{
+		"abr": "necroticorb",
+		"price": 3000,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_NecroticOrb"
+	},
+	{
+		"abr": "ninjaspell:doton",
+		"price": 1250,
+		"category": "Scrolls",
+		"defname": "SpellOf_Doton"
+	},
+	{
+		"abr": "ninjaspell:hyoshoranryu",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_HyoshoRanryu"
+	},
+	{
+		"abr": "nomadskill:lightarrow",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_LightArrow"
+	},
+	{
+		"abr": "nomadskill:skirmisher'sshot",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_SkirmishersShot"
+	},
+	{
+		"abr": "nomad/strikerskill:riddleofflame",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_RiddleOfFlame"
+	},
+	{
+		"abr": "oraclespell:grandexpanse",
+		"price": 6250,
+		"category": "Scrolls",
+		"defname": "SpellOf_GrandExpanse"
+	},
+	{
+		"abr": "oraclespell:planetaryforce",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_PlanetaryForce"
+	},
+	{
+		"abr": "orbofconviction",
+		"price": 2500,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_OrbOfConviction"
+	},
+	{
+		"abr": "orbofsouls(empty)",
+		"price": 2500,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_OrbOfSouls"
+	},
+	{
+		"abr": "orbofsouls(filled)",
+		"price": 2500,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_OrbOfSouls_Full"
+	},
+	{
+		"abr": "orboftheeternal",
+		"price": 2500,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_OrbOfEternal"
+	},
+	{
+		"abr": "paladinspell:hammerbolt",
+		"price": 1000,
+		"category": "Scrolls",
+		"defname": "SpellOf_HammerBoltC"
+	},
+	{
+		"abr": "paladinspell:holywrath",
+		"price": 3167,
+		"category": "Scrolls",
+		"defname": "SpellOf_HolyWrath"
+	},
+	{
+		"abr": "paladinspell:retribution",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_RetributionC"
+	},
+	{
+		"abr": "paladinspell:taunt",
+		"price": 1000,
+		"category": "Scrolls",
+		"defname": "SpellOf_TauntC"
+	},
+	{
+		"abr": "paragon'shelm",
+		"price": 1725,
+		"category": "Magic apparel",
+		"defname": "ParagonHelm"
+	},
+	{
+		"abr": "pomanafruit",
+		"price": 4,
+		"category": "Vegetarian",
+		"defname": "TM_RawPomanasyrrium"
+	},
+	{
+		"abr": "poppimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_Poppi"
+	},
+	{
+		"abr": "priestspell:flashheal",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_FlashHeal"
+	},
+	{
+		"abr": "priestspell:resurrection",
+		"price": 6250,
+		"category": "Scrolls",
+		"defname": "SpellOf_Resurrection"
+	},
+	{
+		"abr": "priest/clericspell:blessitem",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_BlessItem"
+	},
+	{
+		"abr": "psionicskill:approachingstorm",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_ApproachingStorm"
+	},
+	{
+		"abr": "pyromechanoidchargingstation",
+		"price": 2467,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_PyroBase"
+	},
+	{
+		"abr": "raidermechanoidchargingstation",
+		"price": 2925,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_RaiderBase"
+	},
+	{
+		"abr": "rangerskill:hunter'sshot",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_HuntersShot"
+	},
+	{
+		"abr": "rangerskill:poisonvolley",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_PoisonVolley"
+	},
+	{
+		"abr": "rangerskill:trollunguent",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_TrollUnguent"
+	},
+	{
+		"abr": "ravenousskill:livingartillery",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_LivingArtillery"
+	},
+	{
+		"abr": "ravenousskill:secondstomach",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_SecondStomach"
+	},
+	{
+		"abr": "ravenousskill:throneofgluttony",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_ThroneOfGluttony"
+	},
+	{
+		"abr": "redmagespell:contresixte",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SpellOf_ContreSixte"
+	},
+	{
+		"abr": "ringofblood",
+		"price": 3167,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_RingOfBlood"
+	},
+	{
+		"abr": "ringofkeenintellect",
+		"price": 3500,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_RingOfKeenIntellect"
+	},
+	{
+		"abr": "ringofmalice",
+		"price": 3167,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_RingOfMalice"
+	},
+	{
+		"abr": "ringoftheeternalblue",
+		"price": 3333,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_RingOfEternalBlue"
+	},
+	{
+		"abr": "robesofthearchmage",
+		"price": 5525,
+		"category": "Magic apparel",
+		"defname": "ArchMageRobe"
+	},
+	{
+		"abr": "runeknightspell:balefire",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Balefire"
+	},
+	{
+		"abr": "runeknightspell:reflect",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Reflect"
+	},
+	{
+		"abr": "ruunbled",
+		"price": 13333,
+		"category": "Melee",
+		"defname": "TM_Ruunbled"
+	},
+	{
+		"abr": "samuraiskill:bladeparry",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SkillOf_BladeParry"
+	},
+	{
+		"abr": "samuraiskill:temperance",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_Temperance"
+	},
+	{
+		"abr": "scholarspell:feyblessing",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SpellOf_FeyBlessing"
+	},
+	{
+		"abr": "scholarspell:guidinglight",
+		"price": 6250,
+		"category": "Scrolls",
+		"defname": "SpellOf_GuidingLight"
+	},
+	{
+		"abr": "scrollofdeimos",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "TM_ScrollOfDeimos"
+	},
+	{
+		"abr": "scrollofenceladus",
+		"price": 3000,
+		"category": "Utility",
+		"defname": "ScrollOfEnceladus"
+	},
+	{
+		"abr": "scrollofganymede",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "TM_ScrollOfGanymede"
+	},
+	{
+		"abr": "scrollofio",
+		"price": 2667,
+		"category": "Utility",
+		"defname": "TM_ScrollOfIo"
+	},
+	{
+		"abr": "scrollofoblivion",
+		"price": 4333,
+		"category": "Utility",
+		"defname": "TM_ScrollOfOblivion"
+	},
+	{
+		"abr": "scrollofspiritbinding",
+		"price": 417,
+		"category": "Magic artifacts",
+		"defname": "MagicArtifact_RerollSpiritBond"
+	},
+	{
+		"abr": "scrolloftriton",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "TM_ScrollOfTriton"
+	},
+	{
+		"abr": "seedofregrowth",
+		"price": 2,
+		"category": "Magic Items",
+		"defname": "SeedofRegrowth"
+	},
+	{
+		"abr": "serum:supersoldier",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfSuperSoldier"
+	},
+	{
+		"abr": "shadowbringerskill:bloodweapon",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_BloodWeapon"
+	},
+	{
+		"abr": "shadowbringerskill:livingdead",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_LivingDead"
+	},
+	{
+		"abr": "shadowbringerskill:plunge",
+		"price": 1583,
+		"category": "Scrolls",
+		"defname": "SkillOf_Plunge"
+	},
+	{
+		"abr": "shadowbringerskill:quietus",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_Quietus"
+	},
+	{
+		"abr": "shadowbringerskill:syphonstrike",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_SyphonStrike"
+	},
+	{
+		"abr": "shadowbringerspell:callofdarkness",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SpellOf_CallOfDarkness"
+	},
+	{
+		"abr": "shadowbringerspell:darkmind",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SpellOf_DarkMind"
+	},
+	{
+		"abr": "shadowbringerspell:oblation",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SpellOf_Oblation"
+	},
+	{
+		"abr": "shamanspell:guardianspirit",
+		"price": 3767,
+		"category": "Scrolls",
+		"defname": "SpellOf_GuardianSpirit"
+	},
+	{
+		"abr": "shardofspiritextraction",
+		"price": 1167,
+		"category": "Magic artifacts",
+		"defname": "TM_Artifact_ClassExtraction"
+	},
+	{
+		"abr": "skeletonlichmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_SkeletonLichR"
+	},
+	{
+		"abr": "skeletonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_SkeletonR"
+	},
+	{
+		"abr": "smallinfernospewer",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_InfernoSpewerSmall"
+	},
+	{
+		"abr": "sniperskill:death'sjudgment",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_DeathsJudgment"
+	},
+	{
+		"abr": "sniperskill:disarmingshot",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SkillOf_DisarmingShot"
+	},
+	{
+		"abr": "sniperskill:heartpiercer",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_Heartpiercer"
+	},
+	{
+		"abr": "sniper/soldierskill:stimshot",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_StimShot"
+	},
+	{
+		"abr": "spellbreakerskill:stiflingwinds",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_StiflingWinds"
+	},
+	{
+		"abr": "spellthiefskill:pickpocket",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_Pickpocket"
+	},
+	{
+		"abr": "spiritbearmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_SpiritBearR"
+	},
+	{
+		"abr": "spiritcrowmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_SpiritCrowR"
+	},
+	{
+		"abr": "spiritmongoosemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_SpiritMongooseR"
+	},
+	{
+		"abr": "staffofblazingpower",
+		"price": 6250,
+		"category": "Magic foci",
+		"defname": "TM_BlazingPowerStaff"
+	},
+	{
+		"abr": "staffofthedefender",
+		"price": 5583,
+		"category": "Magic foci",
+		"defname": "TM_DefenderStaff"
+	},
+	{
+		"abr": "staminapotion",
+		"price": 150,
+		"category": "Drugs",
+		"defname": "RFS_StaminaPotion"
+	},
+	{
+		"abr": "stone",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_Lesser_SentinelR"
+	},
+	{
+		"abr": "stone",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_SentinelR"
+	},
+	{
+		"abr": "stone",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_Greater_SentinelR"
+	},
+	{
+		"abr": "strikerskill:howlingfist",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_HowlingFist"
+	},
+	{
+		"abr": "strikerskill:rockbreaker",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_Rockbreaker"
+	},
+	{
+		"abr": "succubusspell:scorn",
+		"price": 2750,
+		"category": "Scrolls",
+		"defname": "SpellOf_Scorn"
+	},
+	{
+		"abr": "summonerspell:elementalcreation",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SpellOf_AspectChanneling"
+	},
+	{
+		"abr": "summonerspell:summonpoppi",
+		"price": 3767,
+		"category": "Scrolls",
+		"defname": "SpellOf_SummonPoppi"
+	},
+	{
+		"abr": "supersoldierskill:serumoverload",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_SerumOverload"
+	},
+	{
+		"abr": "supportspecialistskill:handheldrocket",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_HandheldRocket"
+	},
+	{
+		"abr": "supportspecialistskill:jumpshot",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_Equilibrium"
+	},
+	{
+		"abr": "syrrium",
+		"price": 75,
+		"category": "Drugs",
+		"defname": "TM_Syrrium"
+	},
+	{
+		"abr": "technomancerspell:kineticshield",
+		"price": 833,
+		"category": "Scrolls",
+		"defname": "SpellOf_TechnoShield"
+	},
+	{
+		"abr": "technomancerspell:mechanitereprogramming",
+		"price": 1417,
+		"category": "Scrolls",
+		"defname": "SpellOf_MechaniteReprogramming"
+	},
+	{
+		"abr": "technomancerspell:orbitalstrike",
+		"price": 2833,
+		"category": "Scrolls",
+		"defname": "SpellOf_OrbitalStrike"
+	},
+	{
+		"abr": "technomancerspell:overdrive",
+		"price": 800,
+		"category": "Scrolls",
+		"defname": "SpellOf_Overdrive"
+	},
+	{
+		"abr": "technomancerspell:sabotage",
+		"price": 667,
+		"category": "Scrolls",
+		"defname": "SpellOf_Sabotage"
+	},
+	{
+		"abr": "thrumbow",
+		"price": 7467,
+		"category": "Ranged",
+		"defname": "TM_ThrumBow"
+	},
+	{
+		"abr": "thrumboaxe",
+		"price": 7750,
+		"category": "Melee",
+		"defname": "TM_ThrumboAxe"
+	},
+	{
+		"abr": "thrumbosaber",
+		"price": 5833,
+		"category": "Melee",
+		"defname": "TM_ThrumboSaber"
+	},
+	{
+		"abr": "tornscript:arbormancer",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfArbormancer"
+	},
+	{
+		"abr": "tornscript:bard",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfBard"
+	},
+	{
+		"abr": "tornscript:blackmage",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfBlackMage"
+	},
+	{
+		"abr": "tornscript:brightmage",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfTheSun"
+	},
+	{
+		"abr": "tornscript:chaos",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfChaos"
+	},
+	{
+		"abr": "tornscript:chromamage",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfChromaMage"
+	},
+	{
+		"abr": "tornscript:chronomancy",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfChronomancer"
+	},
+	{
+		"abr": "tornscript:cleric",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfCleric"
+	},
+	{
+		"abr": "tornscript:demonology",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfDemons"
+	},
+	{
+		"abr": "tornscript:enchanter",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfEnchanter"
+	},
+	{
+		"abr": "tornscript:fire",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfInnerFire"
+	},
+	{
+		"abr": "tornscript:geomancy",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfEarth"
+	},
+	{
+		"abr": "tornscript:golemancer",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfGolemancy"
+	},
+	{
+		"abr": "tornscript:harbinger",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfHarbinger"
+	},
+	{
+		"abr": "tornscript:hemomancy",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfHemomancy"
+	},
+	{
+		"abr": "tornscript:ice",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfHeartOfFrost"
+	},
+	{
+		"abr": "tornscript:keeper",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfKeeper"
+	},
+	{
+		"abr": "tornscript:lightning",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfStormBorn"
+	},
+	{
+		"abr": "tornscript:nature",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfNature"
+	},
+	{
+		"abr": "tornscript:necromancy",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfUndead"
+	},
+	{
+		"abr": "tornscript:oracle",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfOracle"
+	},
+	{
+		"abr": "tornscript:paladin",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfValiant"
+	},
+	{
+		"abr": "tornscript:power",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfArcanist"
+	},
+	{
+		"abr": "tornscript:priest",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfPriest"
+	},
+	{
+		"abr": "tornscript:runeknight",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfRuneKnight"
+	},
+	{
+		"abr": "tornscript:scholar",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfScholar"
+	}
 	],
-	"total": 2252
+	"total": 2367
 }
