@@ -180,23 +180,6 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer some of your coins.",
-    "name": "Gift coins",
-    "usage": "!giftcoins <viewer> <amount>",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
     "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",
@@ -283,8 +266,42 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
+    "name": "Instructions",
+    "usage": "!instructions",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
     "name": "All commands",
     "usage": "!allcommands",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Shows you the complete list of installed mods.",
+    "name": "Installed mods",
+    "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -319,6 +336,23 @@
     "description": null,
     "name": "Revive all",
     "usage": "!reviveall",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Revive me",
+    "usage": "!reviveme",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -421,6 +455,23 @@
     "description": null,
     "name": "Remove trait",
     "usage": "!removetrait",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Revive any pawn",
+    "usage": "!reviveanypawn",
     "userLevel": "Anyone",
     "shortcut": true
   },
