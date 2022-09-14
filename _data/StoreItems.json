@@ -572,13 +572,13 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": 2000,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 1000,
+		"price": 10000,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -4016,7 +4016,7 @@
 	},
 	{
 		"abr": "fungalhusk",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AA_FungalHusk"
 	},
@@ -17003,7 +17003,55 @@
 		"price": 265,
 		"category": "Buildings",
 		"defname": "HeronCurtainTribalTriple"
+	},
+	{
+		"abr": "theheuristiceye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheHeuristicEye"
+	},
+	{
+		"abr": "themeretriciouseye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheMeretriciousEye"
+	},
+	{
+		"abr": "thenumbingeye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheNumbingEye"
+	},
+	{
+		"abr": "theomniscienteye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheOmniscientEye"
+	},
+	{
+		"abr": "thequiescenteye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheQuiescentEye"
+	},
+	{
+		"abr": "therecalcitranteye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheRecalcitrantEye"
+	},
+	{
+		"abr": "thespasmodiceye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheSpasmodicEye"
+	},
+	{
+		"abr": "therapycouch",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "Couch"
 	}
 	],
-	"total": 2834
+	"total": 2842
 }

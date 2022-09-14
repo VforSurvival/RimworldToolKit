@@ -4138,14 +4138,14 @@
           "+55.00 Mass",
           "+100% Flammability",
           "+$2500 Market value",
-          "+5.40 Move speed",
+          "+4.80 Move speed",
           "+2.0C Minimum comfortable temperature",
           "+35.0C Maximum comfortable temperature",
           "+50 Leather amount",
           "+60 Meat amount",
           "+100% Immunity gain speed",
           "+90 Carrying capacity",
-          "+100% Pain shock threshold",
+          "+80% Pain shock threshold",
           "+100% Psychic sensitivity",
           "+1.0 Melee dodge chance",
           "+1.0 Melee hit chance",
@@ -4438,7 +4438,7 @@
       "defName": "TrollRace",
       "enabled": true,
       "name": "troll",
-      "price": 8000
+      "price": 5000
     }
   ]
 }
